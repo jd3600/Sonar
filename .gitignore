@@ -1,0 +1,28 @@
+# --- Environnement local & Dépendances ---
+node_modules/
+.env
+.DS_Store
+Thumbs.db
+
+# --- Backups et Fichiers de test ---
+backup_style/
+public/test-contact.html
+*.bak
+*.tmp
+
+# --- Scripts d'administration/réparation (Sécurité) ---
+public/reparer_sona
+public/reparer_sonar.py
+public/reparer_sonar1.py
+reset_sonar.py
+
+# --- Logs et fichiers système ---
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vscode/
+.idea/
+
+# --- Données de build (si applicable) ---
+dist/
+build/
