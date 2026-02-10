@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "id": 1770729742083,
+    "titre": "Journal Radio - Océane FM - 10/02/2026",
+    "media": "Océane FM",
+    "introduction": "Analyse du journal radio d'Océane FM. En tant qu'expert SONAR, voici l'analyse détaillée mettant en avant la diversité des thèmes abordés et les niveaux de gouvernance impliqués.",
+    "verdict_ia": "Couverture équilibrée avec une forte présence journalistique neutre. Respect des standards de pluralisme.",
+    "analyse_pluralisme": [
+      "Présence de journalistes neutres assurant la modération",
+      "Couverture multi-niveaux (Local, National et International)",
+      "Diversité des acteurs publics représentés (Police, Parquet, État)",
+      "Transparence sur les enjeux de responsabilité publique"
+    ],
+    "faits_marquants": [
+      "Information sur les questions de sécurité et justice (Affaire Saint-Quentin)",
+      "Analyse des services publics et de la politique sociale (Réseau Tanéo)",
+      "Couverture du thème: Culture et Jeunesse (Festival Les Mycèliades)",
+      "Traitement des questions d'identité territoriale (Concours Miss/Mister JNC)",
+      "Couverture des actualités sportives nationales (Rugby à 7)"
+    ]
+  },
+  {
+    "id": 1770729742084,
+    "titre": "Journal Radio - NRJ - 10/02/2026",
+    "media": "NRJ",
+    "introduction": "Analyse du journal d'information matinal de NRJ Nouvelle-Calédonie. Ce rapport souligne l'équilibre entre les préoccupations locales et les scandales internationaux.",
+    "verdict_ia": "Représentation pluraliste avec diversité des camps politiques représentés. Équilibre respecté.",
+    "analyse_pluralisme": [
+      "Diversité des acteurs politiques et institutionnels (Congrès, Mairies)",
+      "Équilibre entre enjeux locaux et nationaux français",
+      "Ouverture sur l'actualité internationale (Affaire Epstein/Maxwell)",
+      "Expertise de la société civile via les ONG (WWF)"
+    ],
+    "faits_marquants": [
+      "Information sur les dossiers judiciaires en cours et faits divers",
+      "Traitement des questions sociales et éducatives (Aide au logement)",
+      "Couverture du thème: Environnement (Risques incendies de végétation)",
+      "Analyse des infrastructures et transports maritimes (BetiCho)",
+      "Information sur les questions de santé publique et harcèlement"
+    ]
+  },
+  {
+    "id": 1770729742085,
+    "titre": "Journal Radio - Radio Djiido - 10/02/2026",
+    "media": "Radio Djiido",
+    "introduction": "Analyse du flux radiophonique de Radio Djiido. Ce rapport met en lumière la couverture des conflits sociaux locaux et des enjeux géopolitiques mondiaux.",
+    "verdict_ia": "Couverture équilibrée avec une forte présence journalistique neutre. Respect des standards de pluralisme.",
+    "analyse_pluralisme": [
+      "Couverture des conflits sociaux et revendications syndicales (STK-CCT)",
+      "Présentation de points de vue divergents sur les relations internationales",
+      "Mise en avant des initiatives citoyennes et associatives",
+      "Expertise scientifique sur les enjeux de santé régionale"
+    ],
+    "faits_marquants": [
+      "Analyse des conditions de travail au Médipôle (Grève des brancardiers)",
+      "Traitement des questions de santé publique (Dengue et Diabète)",
+      "Couverture du thème: Géopolitique (Manifestations en Australie)",
+      "Information sur la sécurité alimentaire (Journée des légumineuses)",
+      "Suivi des incidents techniques dans les transports aériens"
+    ]
+  },
+  {
+    "id": 1770729742086,
+    "titre": "Journal Radio - NC la 1ère - 10/02/2026",
+    "media": "NC la 1ère",
+    "introduction": "Analyse du journal radio de NC la 1ère. Ce rapport démontre un effort de confrontation des points de vue sur des sujets clivants et controversés.",
+    "verdict_ia": "Couverture équilibrée avec une forte présence journalistique neutre. Respect des standards de pluralisme.",
+    "analyse_pluralisme": [
+      "Multiplicité des voix (ONG, Procureur, Citoyens, Forces de l'ordre)",
+      "Abordage de sujets controversés (Justice, Violences policières)",
+      "Confrontation de récits divergents sur l'actualité",
+      "Équilibre maintenu entre dossiers locaux et enjeux de défense nationale"
+    ],
+    "faits_marquants": [
+      "Information sur les droits LGBTQ+ et les débats judiciaires",
+      "Suivi du procès des Gilets Jaunes et des libertés publiques",
+      "Traitement des questions d'éducation (Harcèlement et campings)",
+      "Analyse des enjeux géopolitiques (Pacte AUKUS)",
+      "Promotion du savoir-faire local (Salon de l'Agriculture)"
+    ]
+  },
+  {
+    "id": 1770729742087,
+    "titre": "Journal Radio - Radio Rythme Bleu - 10/02/2026",
+    "media": "RRB",
+    "introduction": "Analyse du contenu radio de Radio Rythme Bleu. Ce rapport détaille la vie parlementaire locale et les interactions avec la politique nationale française.",
+    "verdict_ia": "Représentation pluraliste avec diversité des camps politiques représentés. Équilibre respecté.",
+    "analyse_pluralisme": [
+      "Suivi précis des institutions (Congrès de la Nouvelle-Calédonie)",
+      "Représentation des différents groupes politiques et de leurs votes",
+      "Analyse de l'influence de la politique nationale sur le territoire",
+      "Mise en avant du dialogue politique et des consultations publiques"
+    ],
+    "faits_marquants": [
+      "Couverture des enjeux politiques locaux (Accords Élysée-Oudino)",
+      "Information sur la rentrée scolaire 2026 et les priorités éducatives",
+      "Traitement des questions de sécurité et réformes judiciaires",
+      "Analyse de l'actualité internationale (Iran et droits de l'homme)",
+      "Couverture des actualités sportives (JO d'hiver et Super Bowl)"
+    ]
+  },
+  {
+    "id": 2026021001,
+    "titre": "Journal TV - Caledonia - 10/02/2026",
+    "media": "Caledonia",
+    "introduction": "Ce JT se concentre quasi exclusivement sur la vie quotidienne et l'économie de proximité dans la Province Nord.",
+    "verdict_ia": "Pluralisme respecté par la mise en avant d'acteurs de la société civile locale.",
+    "analyse_pluralisme": [
+      "Focus exclusif sur la Province Nord (Bastion FLNKS)",
+      "Mise en œuvre concrète du rééquilibrage économique",
+      "Représentation des services publics (SIVOM)",
+      "Soutien aux petites structures locales (ADIE)"
+    ],
+    "faits_marquants": [
+      "Vente de fournitures solidaires à Koné",
+      "Conflit sur le centre de tri à Pouembout",
+      "Réouverture de la station-service à Hienghène",
+      "Dynamisme de l'entrepreneuriat avec l'ADIE",
+      "Focus sur Kayne Médéric à Koumac (maintenance)"
+    ]
+  },
+  {
+    "id": 2026021002,
+    "titre": "Journal TV - NC la 1ère - 10/02/2026",
+    "media": "NC la 1ère",
+    "introduction": "Un journal structuré autour de la reconstruction et des conséquences durables de la crise de 2024.",
+    "verdict_ia": "Analyse équilibrée entre les enjeux du Sud (Tourisme) et du Nord (Nickel).",
+    "analyse_pluralisme": [
+      "Analyse de la convalescence structurelle du pays",
+      "Équilibre entre enjeux économiques du Nord et du Sud",
+      "Neutralité journalistique sur les dossiers sensibles",
+      "Mise en avant des problématiques de la jeunesse"
+    ],
+    "faits_marquants": [
+      "Transfert des vols Aircal vers La Tontouta",
+      "Incertitude sur la réouverture du Méridien Île des Pins",
+      "Audit lancé sur le site de Koniambo Nickel (Vavouto)",
+      "Gestion des 15 000 tonnes de déchets d'émeutes",
+      "Rentrée universitaire sur le campus de Baco (Koné)"
+    ]
+  }
+]

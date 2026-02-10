@@ -1,1 +1,115 @@
-[]
+[
+  {
+    "id": 1770729742083,
+    "type": "Audio",
+    "media": "Océane FM",
+    "filename": "OCÉANE_10022026.mp3",
+    "timestamp": "2026-02-10T10:59:18Z",
+    "duration": 180,
+    "topics": ["Sécurité", "Justice", "Transports", "Culture"],
+    "summary": "Analyse du journal radio d'Océane FM concernant la sécurité à Saint-Quentin et les ajustements du réseau Tanéo.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Journaliste Océane", "camp": "Neutre", "speech_time": 120 },
+      { "name": "Intervenant État", "camp": "Loyaliste", "speech_time": 60 }
+    ]
+  },
+  {
+    "id": 1770729742084,
+    "type": "Audio",
+    "media": "NRJ",
+    "filename": "NRJ_10022026.mp3",
+    "timestamp": "2026-02-10T11:05:00Z",
+    "duration": 180,
+    "topics": ["Justice", "Social", "Environnement", "Santé"],
+    "summary": "Journal d'information de NRJ Nouvelle-Calédonie couvrant les risques d'incendies.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Journaliste NRJ", "camp": "Neutre", "speech_time": 110 },
+      { "name": "Expert WWF", "camp": "Neutre", "speech_time": 70 }
+    ]
+  },
+  {
+    "id": 1770729742085,
+    "type": "Audio",
+    "media": "Radio Djiido",
+    "filename": "DJIIDO_10022026.mp3",
+    "timestamp": "2026-02-10T11:10:00Z",
+    "duration": 180,
+    "topics": ["Social", "Santé", "Géopolitique"],
+    "summary": "Focus sur les mouvements sociaux au Médipôle et l'actualité régionale Pacifique.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Journaliste Djiido", "camp": "Neutre", "speech_time": 90 },
+      { "name": "Représentant Syndical", "camp": "Indépendantiste", "speech_time": 90 }
+    ]
+  },
+  {
+    "id": 1770729742086,
+    "type": "Audio",
+    "media": "NC la 1ère",
+    "filename": "NC1ERE_10022026.mp3",
+    "timestamp": "2026-02-10T11:15:00Z",
+    "duration": 180,
+    "topics": ["Justice", "Société", "Éducation"],
+    "summary": "Édition traitant du pluralisme et des droits citoyens.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Journaliste NC 1ère", "camp": "Neutre", "speech_time": 100 },
+      { "name": "Procureur", "camp": "Neutre", "speech_time": 80 }
+    ]
+  },
+  {
+    "id": 1770729742087,
+    "type": "Audio",
+    "media": "RRB",
+    "filename": "RRB_10022026.mp3",
+    "timestamp": "2026-02-10T11:20:00Z",
+    "duration": 180,
+    "topics": ["Politique", "Congrès", "Éducation"],
+    "summary": "Analyse de la vie parlementaire au Congrès.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Journaliste RRB", "camp": "Neutre", "speech_time": 90 },
+      { "name": "Élu Loyaliste", "camp": "Loyaliste", "speech_time": 90 }
+    ]
+  },
+  {
+    "id": 2026021001,
+    "type": "video",
+    "media": "Caledonia",
+    "filename": "CALEDONIA_10022026.mp4",
+    "timestamp": "2026-02-10T22:31:44Z",
+    "duration": 480,
+    "speakers": [
+      { "name": "Arnaud Banfi", "camp": "Société Civile", "speech_time": 120 },
+      { "name": "Gabriella Oujanou", "camp": "Société Civile", "speech_time": 90 },
+      { "name": "Claudia Jarossay", "camp": "Société Civile", "speech_time": 80 }
+    ],
+    "topics": ["Économie", "Environnement", "Social"],
+    "summary": "Focus sur la Province Nord : gestion des déchets à Pouembout et entreprenariat ADIE.",
+    "verdict": "Conforme",
+    "analysis_complete": true
+  },
+  {
+    "id": 2026021002,
+    "type": "video",
+    "media": "NC la 1ère",
+    "filename": "NC1ERE_10022026.mp4",
+    "timestamp": "2026-02-10T22:33:05Z",
+    "duration": 600,
+    "speakers": [
+      { "name": "Journaliste Principal", "camp": "Neutre", "speech_time": 300 },
+      { "name": "PromoSud", "camp": "Loyaliste", "speech_time": 150 }
+    ],
+    "topics": ["Tourisme", "Économie", "Nickel"],
+    "summary": "Édition sur la reconstruction : avenir de l'hôtel Méridien et audit à l'usine de Vavouto.",
+    "verdict": "Conforme",
+    "analysis_complete": true
+  }
+]

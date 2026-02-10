@@ -119,8 +119,8 @@
             const response = await fetch('resultats_sonar.json?t=' + Date.now()); // Éviter le cache
             const allData = await response.json();
             
-            // Filtrer seulement les données audio
-            audioData = allData.filter(item => item.type === 'audio');
+            // Filtrer seulement les données audio (insensible à la casse)
+            audioData = allData.filter(item => item.type && item.type.toLowerCase() === 'audio');
             
             console.log(`📻 ${audioData.length} analyses audio chargées`);
             console.log('Fichiers audio:', audioData.map(item => item.filename));
