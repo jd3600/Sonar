@@ -1,5 +1,83 @@
 [
   {
+    "id": 1770850000001,
+    "type": "Audio",
+    "media": "NRJ",
+    "filename": "NRJ 11022026.mp3",
+    "timestamp": "2026-02-11T21:41:15.784Z",
+    "duration": 720,
+    "speakers": [
+      {"name": "Manuel Valls", "camp": "Neutre", "speech_time": 180},
+      {"name": "Éric Coquerel", "camp": "Opposition", "speech_time": 120},
+      {"name": "Emmanuel Macron", "camp": "Gouvernement", "speech_time": 150}
+    ],
+    "topics": ["Avenir institutionnel", "Gouvernance", "Santé", "Environnement"],
+    "summary": "Analyse du pluralisme incluant les mises en garde de Manuel Valls sur l'indépendance et la controverse nationale sur la nomination à la Cour des Comptes.",
+    "analysis_complete": true
+  },
+  {
+    "id": 1770850000002,
+    "type": "Audio",
+    "media": "Océane FM",
+    "filename": "OCEANE FM 11022026.mp3",
+    "timestamp": "2026-02-11T21:41:19.276Z",
+    "duration": 600,
+    "speakers": [
+      {"name": "Jacques Billant", "camp": "Neutre", "speech_time": 200},
+      {"name": "Benoît Hubert", "camp": "Neutre", "speech_time": 150}
+    ],
+    "topics": ["Économie (Erramet)", "Sécurité", "Nominations", "Province Sud"],
+    "summary": "Focus sur les tensions actionnariales chez Erramet et la cérémonie des vœux aux forces de sécurité intérieure.",
+    "analysis_complete": true
+  },
+  {
+    "id": 1770850000003,
+    "type": "Audio",
+    "media": "Radio Djiido",
+    "filename": "DJIIDO 11022026.mp3",
+    "timestamp": "2026-02-11T21:41:57.348Z",
+    "duration": 900,
+    "speakers": [
+      {"name": "Isabelle Chamu", "camp": "Gouvernement NC", "speech_time": 300},
+      {"name": "Winston Peters", "camp": "International", "speech_time": 120}
+    ],
+    "topics": ["Éducation", "Transport (SMTU)", "Corruption Pacifique", "Rentrée 2026"],
+    "summary": "Présentation des mesures de rentrée scolaire et focus sur l'actualité régionale (Palau, Marshall, Nouvelle-Zélande).",
+    "analysis_complete": true
+  }
+  {
+    "id": 1770850000004,
+    "type": "Audio",
+    "media": "NC la 1ère",
+    "filename": "NC1ERER 11022026.mp3",
+    "timestamp": "2026-02-11T21:43:39.587Z",
+    "duration": 850,
+    "speakers": [
+      {"name": "Manuel Valls", "camp": "Indépendance-Association", "speech_time": 210},
+      {"name": "Henriette Tjinmahe", "camp": "Indépendantiste (UCFK)", "speech_time": 180},
+      {"name": "Gilles Brial", "camp": "Loyaliste", "speech_time": 150}
+    ],
+    "topics": ["Réforme constitutionnelle", "Gouvernance locale (Poum)", "Justice", "Solidarité"],
+    "summary": "Édition traitant de l'avenir institutionnel avec Manuel Valls et des défis du quotidien dans les communes (eau, éducation à Poum et Île-des-Pins).",
+    "analysis_complete": true
+  },
+  {
+    "id": 1770850000005,
+    "type": "Audio",
+    "media": "RRB",
+    "filename": "RRB 11022026.mp3",
+    "timestamp": "2026-02-11T21:43:55.829Z",
+    "duration": 780,
+    "speakers": [
+      {"name": "Sonia Backès", "camp": "Loyaliste", "speech_time": 240},
+      {"name": "Marylène D'Arcangelo", "camp": "Loyaliste", "speech_time": 180},
+      {"name": "Nicolas Metzdorf", "camp": "Loyaliste", "speech_time": 120}
+    ],
+    "topics": ["Rentrée scolaire", "Réunions Loyalistes", "Exportations OCEF", "Controverse Montchalin"],
+    "summary": "Focus sur la gestion municipale de la rentrée à Païta et l'offensive politique des Loyalistes sur les accords institutionnels.",
+    "analysis_complete": true
+  }
+  {
     "id": 1770729742083,
     "type": "Audio",
     "media": "Océane FM",
