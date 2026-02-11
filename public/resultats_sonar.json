@@ -15,7 +15,7 @@
       {"name": "Éric Coquerel", "camp": "Opposition", "speech_time": 120},
       {"name": "Emmanuel Macron", "camp": "Gouvernement", "speech_time": 150}
     ]
-  }
+  },
 {
     "id": 1770850000002,
     "type": "Audio",
@@ -31,7 +31,7 @@
       {"name": "Jacques Billant", "camp": "Neutre", "speech_time": 200},
       {"name": "Benoît Hubert", "camp": "Neutre", "speech_time": 150}
     ]
-  }
+  },
 {
     "id": 1770850000003,
     "type": "Audio",
@@ -47,7 +47,7 @@
       {"name": "Isabelle Chamu", "camp": "Gouvernement NC", "speech_time": 300},
       {"name": "Winston Peters", "camp": "International", "speech_time": 120}
     ]
-  }
+  },
 {
     "id": 1770850000004,
     "type": "Audio",
@@ -64,7 +64,7 @@
       {"name": "Henriette Tjinmahe", "camp": "Indépendantiste (UCFK)", "speech_time": 180},
       {"name": "Gilles Brial", "camp": "Loyaliste", "speech_time": 150}
     ]
-  }
+  },
 {
     "id": 1770850000005,
     "type": "Audio",
@@ -81,7 +81,7 @@
       {"name": "Marylène D'Arcangelo", "camp": "Loyaliste", "speech_time": 180},
       {"name": "Nicolas Metzdorf", "camp": "Loyaliste", "speech_time": 120}
     ]
-  }
+  },
 {
     "id": 1770729742083,
     "type": "Audio",
