@@ -46,7 +46,7 @@
     "speakers": [
       {"name": "Isabelle Chamu", "camp": "Gouvernement NC", "speech_time": 300},
       {"name": "Winston Peters", "camp": "International", "speech_time": 120}
-  }
+  },
   {
     "id": 1770850000004,
     "type": "Audio",
@@ -79,7 +79,7 @@
       {"name": "Sonia Backès", "camp": "Loyaliste", "speech_time": 240},
       {"name": "Marylène D'Arcangelo", "camp": "Loyaliste", "speech_time": 180},
       {"name": "Nicolas Metzdorf", "camp": "Loyaliste", "speech_time": 120}
-    ],
+    ]
   },
   {
     "id": 1770729742083,
