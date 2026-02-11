@@ -46,6 +46,7 @@
     "speakers": [
       {"name": "Isabelle Chamu", "camp": "Gouvernement NC", "speech_time": 300},
       {"name": "Winston Peters", "camp": "International", "speech_time": 120}
+    ],
   },
   {
     "id": 1770850000004,
@@ -79,7 +80,7 @@
       {"name": "Sonia Backès", "camp": "Loyaliste", "speech_time": 240},
       {"name": "Marylène D'Arcangelo", "camp": "Loyaliste", "speech_time": 180},
       {"name": "Nicolas Metzdorf", "camp": "Loyaliste", "speech_time": 120}
-    ]
+    ],
   },
   {
     "id": 1770729742083,
@@ -95,7 +96,7 @@
     "speakers": [
       { "name": "Journaliste Océane", "camp": "Neutre", "speech_time": 120 },
       { "name": "Intervenant État", "camp": "Loyaliste", "speech_time": 60 }
-    ]
+    ],
   },
   {
     "id": 1770729742084,
@@ -111,7 +112,7 @@
     "speakers": [
       { "name": "Journaliste NRJ", "camp": "Neutre", "speech_time": 110 },
       { "name": "Expert WWF", "camp": "Neutre", "speech_time": 70 }
-    ]
+    ],
   },
   {
     "id": 1770729742085,
@@ -127,7 +128,7 @@
     "speakers": [
       { "name": "Journaliste Djiido", "camp": "Neutre", "speech_time": 90 },
       { "name": "Représentant Syndical", "camp": "Indépendantiste", "speech_time": 90 }
-    ]
+    ],
   },
   {
     "id": 1770729742086,
@@ -143,7 +144,7 @@
     "speakers": [
       { "name": "Journaliste NC 1ère", "camp": "Neutre", "speech_time": 100 },
       { "name": "Procureur", "camp": "Neutre", "speech_time": 80 }
-    ]
+    ],
   },
   {
     "id": 1770729742087,
@@ -159,7 +160,7 @@
     "speakers": [
       { "name": "Journaliste RRB", "camp": "Neutre", "speech_time": 90 },
       { "name": "Élu Loyaliste", "camp": "Loyaliste", "speech_time": 90 }
-    ]
+    ],
   },
   {
     "id": 2026021001,
