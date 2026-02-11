@@ -1,5 +1,105 @@
 [
   {
+    "id": 1770850000001,
+    "titre": "Journal Radio - NRJ - 11/02/2026",
+    "media": "NRJ",
+    "introduction": "Analyse du journal de NRJ du 11/02. Une édition marquée par un fort pluralisme entre enjeux institutionnels locaux et débats éthiques nationaux.",
+    "verdict_ia": "Pluralisme politique notable avec une confrontation directe des visions sur la souveraineté et le contrôle démocratique.",
+    "analyse_pluralisme": [
+      "Débat sur l'avenir institutionnel (mises en garde de Manuel Valls)",
+      "Contestation parlementaire (LFI) sur les nominations nationales",
+      "Gouvernance locale active de la Province Sud",
+      "Équilibre entre décisions administratives et réactions d'opposition"
+    ],
+    "faits_marquants": [
+      "Projet de décarbonation ArcelorMittal (Dunkerque)",
+      "Nomination de Benoît Hubert au Haut-commissariat",
+      "Politiques sociales et réinsertion en Province Sud",
+      "Information sur la criminalité organisée nationale",
+      "Anecdote insolite sur la patineuse Madeline Schizas"
+    ]
+  },
+  {
+    "id": 1770850000002,
+    "titre": "Journal Radio - Océane FM - 11/02/2026",
+    "media": "Océane FM",
+    "introduction": "Analyse de la matinale d'Océane FM. Focus sur la stratégie industrielle du nickel et la sécurité intérieure.",
+    "verdict_ia": "Analyse riche mettant en lumière les divergences entre intérêts privés et vision stratégique de l'État.",
+    "analyse_pluralisme": [
+      "Tensions actionnariales chez Erramet (État vs Famille Duval)",
+      "Rôle de l'État actionnaire et régulateur",
+      "Débat sur l'indépendance de la Cour des Comptes",
+      "Reconnaissance des forces de sécurité de l'État"
+    ],
+    "faits_marquants": [
+      "Suspension du directeur financier d'Erramet",
+      "Vœux de l'État aux forces de sécurité intérieure",
+      "Récompense des bacheliers par la Province Sud",
+      "Mise en garde contre les faux profils (Maire de Nouméa)",
+      "Performance d'Éric Perrot aux JO d'hiver"
+    ]
+  },
+  {
+    "id": 1770850000003,
+    "titre": "Journal Radio - Radio Djiido - 11/02/2026",
+    "media": "Radio Djiido",
+    "introduction": "Analyse du journal de Djiido. Une large part accordée à la rentrée scolaire et à la géopolitique du Pacifique.",
+    "verdict_ia": "Pluralisme institutionnel et régional marqué par une forte interconnexion des enjeux océaniens.",
+    "analyse_pluralisme": [
+      "Gouvernance multi-niveaux (Gouvernement NC, Provinces, État)",
+      "Coopération entre Rectorat et Syndicat des Transports (SMTU)",
+      "Relais des enjeux de corruption dans le Pacifique (Palau, Marshall)",
+      "Plaidoyer transnational pour les ressortissants du Pacifique"
+    ],
+    "faits_marquants": [
+      "Mesures pour la rentrée scolaire 2026 (Isabelle Chamu)",
+      "Ajustements des lignes de bus Tanéo",
+      "Sanctions américaines contre la corruption à Palau",
+      "Refonte des évaluations du brevet des collèges",
+      "Lutte contre le harcèlement scolaire (ambassadeurs climat)"
+    ]
+  }
+  {
+    "id": 1770850000004,
+    "titre": "Journal Radio - NC la 1ère - 11/02/2026",
+    "media": "NC la 1ère",
+    "introduction": "Analyse du journal de NC la 1ère. Un panorama complet allant des débats constitutionnels au Sénat jusqu'aux réalités de terrain à Poum et Bélep.",
+    "verdict_ia": "Pluralisme politique équilibré entre les perspectives nationales et la gouvernance de proximité des municipalités.",
+    "analyse_pluralisme": [
+      "Confrontation des visions institutionnelles (Valls vs ligne Loyaliste)",
+      "Représentation de la gouvernance municipale (Mairie de Poum)",
+      "Rôle des instances provinciales dans les décisions éducatives",
+      "Mise en avant de la société civile (Association St-Vincent de Paul)"
+    ],
+    "faits_marquants": [
+      "Proposition d'indépendance-association par Manuel Valls",
+      "Gestion de la transition énergétique à Poum",
+      "Report du procès des conflits de Bélep",
+      "Affaire Jacques Leveugle et appels à témoins",
+      "Performance d'Éric Perrot aux Jeux Olympiques"
+    ]
+  },
+  {
+    "id": 1770850000005,
+    "titre": "Journal Radio - RRB - 11/02/2026",
+    "media": "RRB",
+    "introduction": "Analyse du flux de Radio Rythme Bleu. Focus sur l'actualité des partis loyalistes et la vie économique régionale.",
+    "verdict_ia": "Forte présence des acteurs institutionnels locaux et relais des débats parlementaires nationaux.",
+    "analyse_pluralisme": [
+      "Suivi des réunions publiques des figures loyalistes (Backès, Metzdorf)",
+      "Gestion communale de la rentrée scolaire (Mairie de Païta)",
+      "Relais de l'opposition nationale (Ciotti, Coquerel) sur les nominations",
+      "Sondage d'opinion sur le climat social post-mai 2024"
+    ],
+    "faits_marquants": [
+      "Campagne de promotion des accords par les Loyalistes",
+      "Exportation de viande calédonienne vers la Polynésie",
+      "Polémique sur la nomination d'Amélie de Montchalin",
+      "Enquête locale sur les victimes potentielles de l'affaire Leveugle",
+      "Reconnaissance provinciale de l'excellence des bacheliers"
+    ]
+  }
+  {
     "id": 1770729742083,
     "titre": "Journal Radio - Océane FM - 10/02/2026",
     "media": "Océane FM",
