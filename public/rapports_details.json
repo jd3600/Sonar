@@ -1,5 +1,44 @@
 [
   {
+    "id": 20260211001,
+    "titre": "Journal TV - Caledonia - 11/02/2026",
+    "media": "Caledonia",
+    "introduction": "Analyse du JT de Caledonia du 11/02. Une édition centrée sur les tensions de la rentrée scolaire et les enjeux sociaux du Nord.",
+    "verdict_ia": "Pluralisme institutionnel respecté. Équilibre entre les annonces du gouvernement et les critiques syndicales sur la DDEC.",
+    "analyse_pluralisme": [
+      "Parole donnée à l'exécutif (Champmoreau) et à l'État (Vice-rectorat)",
+      "Relais des revendications syndicales (CFE-CGC) face aux licenciements",
+      "Focus sur les enjeux de proximité en Province Nord (Pouembout)",
+      "Traitement neutre d'une affaire judiciaire sensible"
+    ],
+    "faits_marquants": [
+      "Baisse historique des effectifs scolaires (sous les 60 000)",
+      "Fermeture de 5 internats et 7 cantines de la DDEC",
+      "Appel à témoins national concernant Jacques Leveugle",
+      "Sensibilisation à l'IA et aux dangers du web à Pouembout"
+    ]
+  },
+  {
+    "id": 20260211002,
+    "titre": "Journal TV - NC la 1ère - 11/02/2026",
+    "media": "NC la 1ère",
+    "introduction": "Journal de NC la 1ère. Une édition pivot qui lance officiellement le débat des municipales 2026.",
+    "verdict_ia": "Excellent équilibre entre les blocs politiques. La présence en plateau de l'UC face aux annonces gouvernementales assure un pluralisme parfait.",
+    "analyse_pluralisme": [
+      "Intervention de deux membres du gouvernement (Loyalistes)",
+      "Interview de fond avec le Secrétaire Général de l'Union Calédonienne",
+      "Mise en perspective des enjeux locaux (Poum) avec la stratégie nationale",
+      "Traitement de la crise du nickel sous l'angle de la transition énergétique"
+    ],
+    "faits_marquants": [
+      "Lien établi entre Jacques Leveugle et le collège de Maré (1983-1985)",
+      "Annonce du budget de 58 milliards pour l'éducation",
+      "Report du procès de Belep à 2027",
+      "Stratégie du FLNKS pour les municipales : des listes féminines dans le Sud",
+      "Solidarité : Un vélo adapté pour Loïc à Pouembout"
+    ]
+  },
+  {
     "id": 1770850000001,
     "titre": "Journal Radio - NRJ - 11/02/2026",
     "media": "NRJ",
