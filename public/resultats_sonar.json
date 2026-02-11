@@ -1,191 +1,101 @@
 [
-  {
+{
     "id": 1770850000001,
     "type": "Audio",
     "media": "NRJ",
     "filename": "NRJ 11022026.mp3",
     "timestamp": "2026-02-11T21:41:15.784Z",
     "duration": 720,
-    "topics": [
-      "Avenir institutionnel",
-      "Gouvernance",
-      "Santé",
-      "Environnement"
-    ],
+    "topics": ["Avenir institutionnel", "Gouvernance", "Santé", "Environnement"],
     "summary": "Analyse du pluralisme incluant les mises en garde de Manuel Valls sur l'indépendance et la controverse nationale sur la nomination à la Cour des Comptes.",
     "verdict": "Conforme",
     "analysis_complete": true,
     "speakers": [
-      {
-        "name": "Manuel Valls",
-        "camp": "Neutre",
-        "speech_time": 180
-      },
-      {
-        "name": "Éric Coquerel",
-        "camp": "Opposition",
-        "speech_time": 120
-      },
-      {
-        "name": "Emmanuel Macron",
-        "camp": "Gouvernement",
-        "speech_time": 150
-      }
+      {"name": "Manuel Valls", "camp": "Neutre", "speech_time": 180},
+      {"name": "Éric Coquerel", "camp": "Opposition", "speech_time": 120},
+      {"name": "Emmanuel Macron", "camp": "Gouvernement", "speech_time": 150}
     ]
-  },
-  {
+  }
+{
     "id": 1770850000002,
     "type": "Audio",
     "media": "Océane FM",
     "filename": "OCEANE FM 11022026.mp3",
     "timestamp": "2026-02-11T21:41:19.276Z",
     "duration": 600,
-    "topics": [
-      "Économie (Erramet)",
-      "Sécurité",
-      "Nominations",
-      "Province Sud"
-    ],
+    "topics": ["Économie (Erramet)", "Sécurité", "Nominations", "Province Sud"],
     "summary": "Focus sur les tensions actionnariales chez Erramet et la cérémonie des vœux aux forces de sécurité intérieure.",
     "verdict": "Conforme",
     "analysis_complete": true,
     "speakers": [
-      {
-        "name": "Jacques Billant",
-        "camp": "Neutre",
-        "speech_time": 200
-      },
-      {
-        "name": "Benoît Hubert",
-        "camp": "Neutre",
-        "speech_time": 150
-      }
+      {"name": "Jacques Billant", "camp": "Neutre", "speech_time": 200},
+      {"name": "Benoît Hubert", "camp": "Neutre", "speech_time": 150}
     ]
-  },
-  {
+  }
+{
     "id": 1770850000003,
     "type": "Audio",
     "media": "Radio Djiido",
     "filename": "DJIIDO 11022026.mp3",
     "timestamp": "2026-02-11T21:41:57.348Z",
     "duration": 900,
-    "topics": [
-      "Éducation",
-      "Transport (SMTU)",
-      "Corruption Pacifique",
-      "Rentrée 2026"
-    ],
+    "topics": ["Éducation", "Transport (SMTU)", "Corruption Pacifique", "Rentrée 2026"],
     "summary": "Présentation des mesures de rentrée scolaire et focus sur l'actualité régionale (Palau, Marshall, Nouvelle-Zélande).",
     "verdict": "Conforme",
     "analysis_complete": true,
     "speakers": [
-      {
-        "name": "Isabelle Chamu",
-        "camp": "Gouvernement NC",
-        "speech_time": 300
-      },
-      {
-        "name": "Winston Peters",
-        "camp": "International",
-        "speech_time": 120
-      }
+      {"name": "Isabelle Chamu", "camp": "Gouvernement NC", "speech_time": 300},
+      {"name": "Winston Peters", "camp": "International", "speech_time": 120}
     ]
-  },
-  {
+  }
+{
     "id": 1770850000004,
     "type": "Audio",
     "media": "NC la 1ère",
     "filename": "NC1ERER 11022026.mp3",
     "timestamp": "2026-02-11T21:43:39.587Z",
     "duration": 850,
-    "topics": [
-      "Réforme constitutionnelle",
-      "Gouvernance locale (Poum)",
-      "Justice",
-      "Solidarité"
-    ],
+    "topics": ["Réforme constitutionnelle", "Gouvernance locale (Poum)", "Justice", "Solidarité"],
     "summary": "Édition traitant de l'avenir institutionnel avec Manuel Valls et des défis du quotidien dans les communes (eau, éducation à Poum et Île-des-Pins).",
     "verdict": "Conforme",
     "analysis_complete": true,
     "speakers": [
-      {
-        "name": "Manuel Valls",
-        "camp": "Indépendance-Association",
-        "speech_time": 210
-      },
-      {
-        "name": "Henriette Tjinmahe",
-        "camp": "Indépendantiste (UCFK)",
-        "speech_time": 180
-      },
-      {
-        "name": "Gilles Brial",
-        "camp": "Loyaliste",
-        "speech_time": 150
-      }
+      {"name": "Manuel Valls", "camp": "Indépendance-Association", "speech_time": 210},
+      {"name": "Henriette Tjinmahe", "camp": "Indépendantiste (UCFK)", "speech_time": 180},
+      {"name": "Gilles Brial", "camp": "Loyaliste", "speech_time": 150}
     ]
-  },
-  {
+  }
+{
     "id": 1770850000005,
     "type": "Audio",
     "media": "RRB",
     "filename": "RRB 11022026.mp3",
     "timestamp": "2026-02-11T21:43:55.829Z",
     "duration": 780,
-    "topics": [
-      "Rentrée scolaire",
-      "Réunions Loyalistes",
-      "Exportations OCEF",
-      "Controverse Montchalin"
-    ],
+    "topics": ["Rentrée scolaire", "Réunions Loyalistes", "Exportations OCEF", "Controverse Montchalin"],
     "summary": "Focus sur la gestion municipale de la rentrée à Païta et l'offensive politique des Loyalistes sur les accords institutionnels.",
     "verdict": "Conforme",
     "analysis_complete": true,
     "speakers": [
-      {
-        "name": "Sonia Backès",
-        "camp": "Loyaliste",
-        "speech_time": 240
-      },
-      {
-        "name": "Marylène D'Arcangelo",
-        "camp": "Loyaliste",
-        "speech_time": 180
-      },
-      {
-        "name": "Nicolas Metzdorf",
-        "camp": "Loyaliste",
-        "speech_time": 120
-      }
+      {"name": "Sonia Backès", "camp": "Loyaliste", "speech_time": 240},
+      {"name": "Marylène D'Arcangelo", "camp": "Loyaliste", "speech_time": 180},
+      {"name": "Nicolas Metzdorf", "camp": "Loyaliste", "speech_time": 120}
     ]
-  },
-  {
+  }
+{
     "id": 1770729742083,
     "type": "Audio",
     "media": "Océane FM",
     "filename": "OCÉANE_10022026.mp3",
     "timestamp": "2026-02-10T10:59:18Z",
     "duration": 180,
-    "topics": [
-      "Sécurité",
-      "Justice",
-      "Transports",
-      "Culture"
-    ],
+    "topics": ["Sécurité", "Justice", "Transports", "Culture"],
     "summary": "Analyse du journal radio d'Océane FM concernant la sécurité à Saint-Quentin et les ajustements du réseau Tanéo.",
     "verdict": "Conforme",
     "analysis_complete": true,
     "speakers": [
-      {
-        "name": "Journaliste Océane",
-        "camp": "Neutre",
-        "speech_time": 120
-      },
-      {
-        "name": "Intervenant État",
-        "camp": "Loyaliste",
-        "speech_time": 60
-      }
+      { "name": "Journaliste Océane", "camp": "Neutre", "speech_time": 120 },
+      { "name": "Intervenant État", "camp": "Loyaliste", "speech_time": 60 }
     ]
   },
   {
@@ -195,26 +105,13 @@
     "filename": "NRJ_10022026.mp3",
     "timestamp": "2026-02-10T11:05:00Z",
     "duration": 180,
-    "topics": [
-      "Justice",
-      "Social",
-      "Environnement",
-      "Santé"
-    ],
+    "topics": ["Justice", "Social", "Environnement", "Santé"],
     "summary": "Journal d'information de NRJ Nouvelle-Calédonie couvrant les risques d'incendies.",
     "verdict": "Conforme",
     "analysis_complete": true,
     "speakers": [
-      {
-        "name": "Journaliste NRJ",
-        "camp": "Neutre",
-        "speech_time": 110
-      },
-      {
-        "name": "Expert WWF",
-        "camp": "Neutre",
-        "speech_time": 70
-      }
+      { "name": "Journaliste NRJ", "camp": "Neutre", "speech_time": 110 },
+      { "name": "Expert WWF", "camp": "Neutre", "speech_time": 70 }
     ]
   },
   {
@@ -224,25 +121,13 @@
     "filename": "DJIIDO_10022026.mp3",
     "timestamp": "2026-02-10T11:10:00Z",
     "duration": 180,
-    "topics": [
-      "Social",
-      "Santé",
-      "Géopolitique"
-    ],
+    "topics": ["Social", "Santé", "Géopolitique"],
     "summary": "Focus sur les mouvements sociaux au Médipôle et l'actualité régionale Pacifique.",
     "verdict": "Conforme",
     "analysis_complete": true,
     "speakers": [
-      {
-        "name": "Journaliste Djiido",
-        "camp": "Neutre",
-        "speech_time": 90
-      },
-      {
-        "name": "Représentant Syndical",
-        "camp": "Indépendantiste",
-        "speech_time": 90
-      }
+      { "name": "Journaliste Djiido", "camp": "Neutre", "speech_time": 90 },
+      { "name": "Représentant Syndical", "camp": "Indépendantiste", "speech_time": 90 }
     ]
   },
   {
@@ -252,25 +137,13 @@
     "filename": "NC1ERE_10022026.mp3",
     "timestamp": "2026-02-10T11:15:00Z",
     "duration": 180,
-    "topics": [
-      "Justice",
-      "Société",
-      "Éducation"
-    ],
+    "topics": ["Justice", "Société", "Éducation"],
     "summary": "Édition traitant du pluralisme et des droits citoyens.",
     "verdict": "Conforme",
     "analysis_complete": true,
     "speakers": [
-      {
-        "name": "Journaliste NC 1ère",
-        "camp": "Neutre",
-        "speech_time": 100
-      },
-      {
-        "name": "Procureur",
-        "camp": "Neutre",
-        "speech_time": 80
-      }
+      { "name": "Journaliste NC 1ère", "camp": "Neutre", "speech_time": 100 },
+      { "name": "Procureur", "camp": "Neutre", "speech_time": 80 }
     ]
   },
   {
@@ -280,25 +153,13 @@
     "filename": "RRB_10022026.mp3",
     "timestamp": "2026-02-10T11:20:00Z",
     "duration": 180,
-    "topics": [
-      "Politique",
-      "Congrès",
-      "Éducation"
-    ],
+    "topics": ["Politique", "Congrès", "Éducation"],
     "summary": "Analyse de la vie parlementaire au Congrès.",
     "verdict": "Conforme",
     "analysis_complete": true,
     "speakers": [
-      {
-        "name": "Journaliste RRB",
-        "camp": "Neutre",
-        "speech_time": 90
-      },
-      {
-        "name": "Élu Loyaliste",
-        "camp": "Loyaliste",
-        "speech_time": 90
-      }
+      { "name": "Journaliste RRB", "camp": "Neutre", "speech_time": 90 },
+      { "name": "Élu Loyaliste", "camp": "Loyaliste", "speech_time": 90 }
     ]
   },
   {
@@ -309,27 +170,11 @@
     "timestamp": "2026-02-10T22:31:44Z",
     "duration": 480,
     "speakers": [
-      {
-        "name": "Arnaud Banfi",
-        "camp": "Société Civile",
-        "speech_time": 120
-      },
-      {
-        "name": "Gabriella Oujanou",
-        "camp": "Société Civile",
-        "speech_time": 90
-      },
-      {
-        "name": "Claudia Jarossay",
-        "camp": "Société Civile",
-        "speech_time": 80
-      }
+      { "name": "Arnaud Banfi", "camp": "Société Civile", "speech_time": 120 },
+      { "name": "Gabriella Oujanou", "camp": "Société Civile", "speech_time": 90 },
+      { "name": "Claudia Jarossay", "camp": "Société Civile", "speech_time": 80 }
     ],
-    "topics": [
-      "Économie",
-      "Environnement",
-      "Social"
-    ],
+    "topics": ["Économie", "Environnement", "Social"],
     "summary": "Focus sur la Province Nord : gestion des déchets à Pouembout et entreprenariat ADIE.",
     "verdict": "Conforme",
     "analysis_complete": true
@@ -342,22 +187,10 @@
     "timestamp": "2026-02-10T22:33:05Z",
     "duration": 600,
     "speakers": [
-      {
-        "name": "Journaliste Principal",
-        "camp": "Neutre",
-        "speech_time": 300
-      },
-      {
-        "name": "PromoSud",
-        "camp": "Loyaliste",
-        "speech_time": 150
-      }
+      { "name": "Journaliste Principal", "camp": "Neutre", "speech_time": 300 },
+      { "name": "PromoSud", "camp": "Loyaliste", "speech_time": 150 }
     ],
-    "topics": [
-      "Tourisme",
-      "Économie",
-      "Nickel"
-    ],
+    "topics": ["Tourisme", "Économie", "Nickel"],
     "summary": "Édition sur la reconstruction : avenir de l'hôtel Méridien et audit à l'usine de Vavouto.",
     "verdict": "Conforme",
     "analysis_complete": true
