@@ -1,5 +1,39 @@
 [
 {
+    "id": 20260211001,
+    "type": "video",
+    "media": "Caledonia",
+    "filename": "CALEDONIA 11022026.mp4",
+    "timestamp": "2026-02-11",
+    "duration": 600,
+    "topics": ["Éducation", "DDEC", "Justice", "Numérique"],
+    "summary": "Focus sur la baisse démographique scolaire, la crise financière de l'enseignement catholique et l'appel à témoins national Leveugle.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Isabelle Champmoreau", "camp": "Loyaliste", "speech_time": 180 },
+      { "name": "Didier Vin-Datiche", "camp": "Neutre", "speech_time": 120 },
+      { "name": "Jordane Lefebvre", "camp": "Société Civile", "speech_time": 60 }
+    ]
+  },
+  {
+    "id": 20260211002,
+    "type": "video",
+    "media": "NC la 1ère",
+    "filename": "NC1ERE 11022026.mp4",
+    "timestamp": "2026-02-11",
+    "duration": 900,
+    "topics": ["Justice", "Économie", "Nickel", "Municipales 2026"],
+    "summary": "Édition majeure : enquête pédocriminalité, avenir de la filière Nickel avec Christopher Gygès et lancement des interviews politiques avec l'UC.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Isabelle Champmoreau", "camp": "Loyaliste", "speech_time": 120 },
+      { "name": "Christopher Gygès", "camp": "Loyaliste", "speech_time": 180 },
+      { "name": "Dominique Fochi", "camp": "Indépendantiste", "speech_time": 240 }
+    ]
+  },
+{
     "id": 1770850000001,
     "type": "Audio",
     "media": "NRJ",
