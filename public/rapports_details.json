@@ -1,5 +1,145 @@
 [
   {
+    "id": 20260212001,
+    "titre": "Journal Radio - Océane FM - 12/02/2026",
+    "media": "Océane FM",
+    "introduction": "Analyse du journal d'Océane FM. Une édition centrée sur les tensions de gouvernance industrielle et les nominations régaliennes.",
+    "verdict_ia": "Pluralisme exprimé par la coexistence d'intérêts divergents entre le secteur privé (Eramet) et la vision stratégique de l'État.",
+    "analyse_pluralisme": [
+      "Exposition du conflit d'objectifs chez Eramet (État actionnaire vs Famille Duval)",
+      "Débat sur la légitimité démocratique des nominations (Amélie de Montchalin)",
+      "Mise en avant de l'autorité de l'État via les vœux aux forces de sécurité",
+      "Alerte sur la vulnérabilité numérique des institutions locales"
+    ],
+    "faits_marquants": [
+      "Suspension du directeur financier d'Eramet, Abel Martin Alexandre",
+      "Nomination de Benoît Hubert au Haut-commissariat",
+      "Usurpation d'identité numérique de la maire de Nouméa sur Messenger",
+      "Soutien de la Province Sud aux bacheliers d'excellence",
+      "Performance d'Éric Perrot aux épreuves olympiques"
+    ]
+  },
+  {
+    "id": 20260212002,
+    "titre": "Journal Radio - NRJ - 12/02/2026",
+    "media": "NRJ",
+    "introduction": "Journal de NRJ. Un tour d'horizon complet alliant justice nationale et dispositifs sociaux de proximité.",
+    "verdict_ia": "Équilibre respecté entre les enjeux régaliens nationaux et les politiques publiques territoriales de la Province Sud.",
+    "analyse_pluralisme": [
+      "Couverture du procès des assistants du RN (Marine Le Pen)",
+      "Relais des dispositifs de solidarité de la Province Sud (bons de rentrée)",
+      "Analyse des tensions internationales (Donald Trump / Benyamin Netanyahu)",
+      "Traitement des problématiques environnementales locales (incendies)"
+    ],
+    "faits_marquants": [
+      "Distribution de bons d'achat de 6 000 FCFP pour 44 000 jeunes",
+      "Aide provinciale pour l'installation de panneaux photovoltaïques",
+      "Évolution de la carte scolaire face à la baisse de la natalité",
+      "Violences inter-claniques à Bélep : réponse pénale attendue",
+      "Organisation du 'Fish Market' par la Fédération des pêcheurs"
+    ]
+  },
+  {
+    "id": 20260212003,
+    "titre": "Journal TV - Caledonia - 12/02/2026",
+    "media": "Caledonia",
+    "introduction": "Édition de Caledonia du 12/02. Focus sur la recomposition du paysage politique indépendantiste et l'insécurité en zone rurale.",
+    "verdict_ia": "Pluralisme politique interne au camp indépendantiste mis en lumière. Équilibre entre revendications coutumières et gestion publique.",
+    "analyse_pluralisme": [
+      "Analyse de la naissance de l'UPK face à la ligne officielle de l'UNI",
+      "Parole donnée aux autorités coutumières sur la gestion de l'espace maritime",
+      "Témoignage sur l'impact des pillages des structures publiques en Brousse",
+      "Mise en avant des initiatives de solidarité des bailleurs sociaux (SIC)"
+    ],
+    "faits_marquants": [
+      "Création de l'UPK (Unité du Peuple Kanak) par des dissidents indépendantistes",
+      "Saccage et vol de moteurs à la base nautique de Pouembout",
+      "Intégration de la vision kanak au Parc Naturel de la Mer de Corail",
+      "Opération 'Cartables Solidaires' à la résidence Karé de Dumbéa",
+      "Prévisions météorologiques : vigilance sur les températures caniculaires"
+    ]
+  },
+  {
+    "id": 20260212004,
+    "titre": "Journal TV - NC la 1ère - 12/02/2026",
+    "media": "NC la 1ère",
+    "introduction": "Une édition marquée par les arbitrages budgétaires provinciaux et la crise structurelle du système de santé.",
+    "verdict_ia": "Pluralisme institutionnel assuré par la représentation des trois Provinces et la voix des parlementaires à Paris.",
+    "analyse_pluralisme": [
+      "Confrontation des priorités budgétaires (Province Sud vs Province Îles)",
+      "Relais de l'action parlementaire d'Emmanuel Tjibaou à l'Assemblée Nationale",
+      "Débat entre professionnels de santé sur la pénurie d'ophtalmologues",
+      "Focus sur les conséquences sociales de l'inflation sur les familles"
+    ],
+    "faits_marquants": [
+      "Plan d'austérité aux Îles Loyauté : dette de 4 milliards de FCFP",
+      "Délai d'un an pour obtenir une consultation ophtalmologique",
+      "Saccage des logements de fonction au CMS de Canala",
+      "Interpellation du gouvernement français sur la sortie de crise",
+      "Célébration des 50 ans de l'association 'Témoignage d'un passé'"
+    ]
+  },
+  {
+    "id": 20260212005,
+    "titre": "Journal Radio - Radio Djiido - 12/02/2026",
+    "media": "Radio Djiido",
+    "introduction": "Analyse du journal de Djiido. Une édition consacrée à la fracture politique sur les accords de Paris et la logistique aérienne.",
+    "verdict_ia": "Pluralisme contradictoire très marqué sur l'avenir institutionnel (Accord de Bougival).",
+    "analyse_pluralisme": [
+      "Défense des nouveaux accords par Jean-Pierre Djaïwé (UNI)",
+      "Contestation virulente de l'Union Calédonienne (Dominique Fochi)",
+      "Explication des enjeux électoraux (Municipales et Provinciales 2026)",
+      "Rôle des techniciens dans la transition des services publics (Aérien)"
+    ],
+    "faits_marquants": [
+      "Support de l'UNI à la 'nationalité calédonienne' de l'accord de Bougival",
+      "L'UC dénonce un 'chantage économique' exercé par l'État français",
+      "Transfert définitif des vols Air Calédonie vers l'aéroport de La Tontouta",
+      "Débat sur le dégel du corps électoral pour les prochains scrutins",
+      "Ajustement du réseau de transport Tanéo pour la rentrée de lundi"
+    ]
+  },
+  {
+    "id": 20260212006,
+    "titre": "Journal Radio - RRB - 12/02/2026",
+    "media": "RRB",
+    "introduction": "Analyse du journal de RRB du 12/02. Édition centrée sur l'engagement politique des acteurs économiques et la reconstruction.",
+    "verdict_ia": "Forte visibilité des élus loyalistes et des problématiques de survie des entreprises calédoniennes.",
+    "analyse_pluralisme": [
+      "Mise en perspective de la transition du MEDEF vers l'action politique",
+      "Relais des mesures d'aide provinciales face à la précarité des familles",
+      "Débat sur la sécurité dans les établissements scolaires (interdiction du mobile)",
+      "Couverture des vœux du Haut-commissaire aux forces de l'ordre"
+    ],
+    "faits_marquants": [
+      "Mimsy Déléa quitte la présidence du MEDEF pour s'engager en politique",
+      "Soutien financier de la Province Sud à l'entreprise Grafoprint",
+      "Vote du budget provincial : priorité à la reconstruction post-émeutes",
+      "Sondage sur le sentiment d'insécurité des Calédoniens en milieu scolaire",
+      "Succès du biathlon français (Julia Simon et Lou Jeanmonnot)"
+    ]
+  },
+  {
+    "id": 20260212007,
+    "titre": "Journal Radio - NC la 1ère (Radio) - 12/02/2026",
+    "media": "NC la 1ère",
+    "introduction": "Analyse du flux radio de NC la 1ère. Un panorama des enjeux environnementaux et des solidarités communales.",
+    "verdict_ia": "Pluralisme social et environnemental soulignant le rôle de la société civile et des experts.",
+    "analyse_pluralisme": [
+      "Expertise du WWF sur les politiques municipales de lutte contre les feux",
+      "Voix des citoyens sur la protection de la biodiversité à Dumbéa",
+      "Équilibre entre besoins de développement rural et préservation des ressources",
+      "Focus sur la mémoire historique face aux crises contemporaines"
+    ],
+    "faits_marquants": [
+      "Lancement de l'Atlas de la biodiversité communale à Dumbéa",
+      "Inquiétude sur la ressource en eau potable à Moindou (+39% de population)",
+      "Lutte contre le trafic de perroquets à bosse (espèce protégée)",
+      "Cérémonie anniversaire pour l'association 'Témoignage d'un passé'",
+      "Inauguration de nouvelles infrastructures hydrauliques en Province Nord"
+    ]
+  },
+  {
     "id": 20260211001,
     "titre": "Journal TV - Caledonia - 11/02/2026",
     "media": "Caledonia",
