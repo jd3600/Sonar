@@ -1,5 +1,124 @@
 [
 {
+    "id": 20260212001,
+    "type": "Audio",
+    "media": "Océane FM",
+    "filename": "OCEANE 12022026.mp3",
+    "timestamp": "2026-02-12",
+    "duration": 900,
+    "topics": ["Gouvernance (Eramet)", "Nominations", "Sécurité", "Cybercriminalité"],
+    "summary": "Focus sur les tensions stratégiques au sein d'Eramet et les nominations de hauts fonctionnaires par l'exécutif national.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Jacques Billant", "camp": "État Français", "speech_time": 150 },
+      { "name": "Benoît Hubert", "camp": "État Français", "speech_time": 120 },
+      { "name": "Amélie de Montchalin", "camp": "Gouvernement", "speech_time": 90 }
+    ]
+  },
+  {
+    "id": 20260212002,
+    "type": "Audio",
+    "media": "NRJ",
+    "filename": "NRJ 12022026.mp3",
+    "timestamp": "2026-02-12",
+    "duration": 720,
+    "topics": ["Justice", "Logement", "International", "Pêche"],
+    "summary": "Traitement du procès des assistants parlementaires du RN, des aides au logement en Province Sud et de la géopolitique au Proche-Orient.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Marine Le Pen", "camp": "Opposition", "speech_time": 180 },
+      { "name": "Donald Trump", "camp": "International", "speech_time": 60 },
+      { "name": "Benyamin Netanyahu", "camp": "International", "speech_time": 60 }
+    ]
+  },
+  {
+    "id": 20260212003,
+    "type": "video",
+    "media": "Caledonia",
+    "filename": "CALEDONIA 12022026.mp4",
+    "timestamp": "2026-02-12",
+    "duration": 600,
+    "topics": ["Politique (UPK)", "Solidarité", "Vandalisme", "Environnement"],
+    "summary": "Analyse de la scission indépendantiste avec la création de l'UPK et focus sur les pillages à Pouembout.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Jean-Pierre Djaïwé", "camp": "Indépendantiste (UNI)", "speech_time": 210 },
+      { "name": "Jean-Yves Poedi", "camp": "Coutumier", "speech_time": 120 },
+      { "name": "Arnaud Banfi", "camp": "Société Civile", "speech_time": 90 }
+    ]
+  },
+  {
+    "id": 20260212004,
+    "type": "video",
+    "media": "NC la 1ère",
+    "filename": "NC1ERE 12022026.mp4",
+    "timestamp": "2026-02-12",
+    "duration": 1800,
+    "topics": ["Santé", "Social", "Budget", "Institutionnel"],
+    "summary": "Crise de la filière ophtalmologique, budgets provinciaux et aides de rentrée scolaire en Province Sud.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Sonia Backès", "camp": "Loyaliste", "speech_time": 180 },
+      { "name": "Mathias Waneux", "camp": "Indépendantiste (UC)", "speech_time": 150 },
+      { "name": "Emmanuel Tjibaou", "camp": "Indépendantiste", "speech_time": 120 }
+    ]
+  },
+  {
+    "id": 20260212005,
+    "type": "Audio",
+    "media": "Radio Djiido",
+    "filename": "DJIIDO 12022026.mp3",
+    "timestamp": "2026-02-12",
+    "duration": 1200,
+    "topics": ["Accord de Bougival", "Transport (Air Calédonie)", "Municipales"],
+    "summary": "Débat de fond sur l'Accord Élysée-Oudinot et transfert des opérations aériennes vers La Tontouta.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Jean-Pierre Djaïwé", "camp": "Indépendantiste (UNI)", "speech_time": 300 },
+      { "name": "Dominique Fochi", "camp": "Indépendantiste (UC)", "speech_time": 300 },
+      { "name": "Daniel Umbricht", "camp": "Technique", "speech_time": 180 }
+    ]
+  },
+  {
+    "id": 20260212006,
+    "type": "Audio",
+    "media": "RRB",
+    "filename": "RRB 12022026.mp3",
+    "timestamp": "2026-02-12",
+    "duration": 1200,
+    "topics": ["Économie", "Éducation", "Justice", "Engagement Politique"],
+    "summary": "Soutien aux entreprises sinistrées et démission de la présidente du MEDEF pour rejoindre la vie politique.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Christophe Gygès", "camp": "Loyaliste", "speech_time": 240 },
+      { "name": "Isabelle Champmoreau", "camp": "Loyaliste", "speech_time": 180 },
+      { "name": "Mimsy Déléa", "camp": "Société Civile", "speech_time": 120 }
+    ]
+  },
+  {
+    "id": 20260212007,
+    "type": "Audio",
+    "media": "NC la 1ère",
+    "filename": "NC1ERER 12022026.mp3",
+    "timestamp": "2026-02-12",
+    "duration": 1500,
+    "topics": ["Institutionnel", "Environnement", "Patrimoine", "Communes"],
+    "summary": "Interpellation du gouvernement par Emmanuel Tjibaou et focus sur la biodiversité à Dumbéa.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Emmanuel Tjibaou", "camp": "Indépendantiste", "speech_time": 210 },
+      { "name": "Pascal Vittori", "camp": "Loyaliste", "speech_time": 150 },
+      { "name": "Hubert Géraux", "camp": "Société Civile (WWF)", "speech_time": 120 }
+    ]
+  },
+{
     "id": 20260211001,
     "type": "video",
     "media": "Caledonia",
