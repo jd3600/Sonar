@@ -1,5 +1,145 @@
 [
   {
+    "id": 20260213001,
+    "titre": "Journal Radio - NRJ - 13/02/2026",
+    "media": "NRJ",
+    "introduction": "Analyse du journal de NRJ. Une édition centrée sur les positionnements de l'UNI sur l'avenir institutionnel et la recomposition politique locale.",
+    "verdict_ia": "Pluralisme politique dynamique, reflétant les tensions sur le statut du territoire et les grandes orientations nationales.",
+    "analyse_pluralisme": [
+      "Défense par l'UNI d'un accord de décolonisation rejetant l'hyperprovincialisation",
+      "Annonce de listes UNI dans 33 communes pour les municipales 2026",
+      "Transition de leaders économiques (MEDEF) vers l'arène politique",
+      "Débat sur la stratégie énergétique nationale française (Lecornu vs opposition)"
+    ],
+    "faits_marquants": [
+      "Approbation de l'accord d'Oudinot par l'UNI",
+      "Démission de Mimsy Déléa pour porter un projet politique 'société civile'",
+      "Condamnation ferme des attaques contre le CMS de Canala",
+      "Baisse de production d'Eramet à Weda Bay pour stabiliser les cours du nickel",
+      "Tensions diplomatiques en Australie lors de la visite d'Isaac Herzog"
+    ]
+  },
+  {
+    "id": 20260213002,
+    "titre": "Journal Radio - Océane FM - 13/02/2026",
+    "media": "Océane FM",
+    "introduction": "Analyse d'Océane FM. Une édition illustrant les passerelles entre le monde économique et la vie politique calédonienne.",
+    "verdict_ia": "Pluralisme complexe reflétant la diversité des niveaux de gouvernance et des idéologies territoriales.",
+    "analyse_pluralisme": [
+      "Campagne municipale à Bourail axée sur le rassemblement (liste 'Bourail demain')",
+      "Engagement politique d'ex-dirigeants du MEDEF (Mimsy Déléa, Didier Leroux)",
+      "Détermination de l'UNI à poser les bases de la nationalité calédonienne",
+      "Vigilance sur l'éthique publique nationale via les institutions de contrôle"
+    ],
+    "faits_marquants": [
+      "Budget 2026 de la Province Sud orienté vers la jeunesse et la solidarité",
+      "Plaidoyer des élus indépendantistes à Paris pour un consensus large",
+      "Étude stratégique sur l'ESS comme levier de résilience économique",
+      "Mise en avant du service public par l'exécutif de la Province Nord",
+      "Intérêt pour la transparence des fonds publics au niveau national"
+    ]
+  },
+  {
+    "id": 20260213003,
+    "titre": "Journal Radio - NC la 1ère - 13/02/2026",
+    "media": "NC la 1ère",
+    "introduction": "Analyse de la matinale de NC la 1ère. Un panorama des tensions sociales, judiciaires et identitaires du territoire.",
+    "verdict_ia": "Pluralisme actif mettant en scène la confrontation entre partis, syndicats et autorité judiciaire.",
+    "analyse_pluralisme": [
+      "Contre-pouvoir judiciaire dans l'affaire de corruption Solomita (Province Sud)",
+      "Expression des revendications enseignantes via l'UTCF-CGT",
+      "Mobilisation du FLNKS contre les accords de Bourail et Élysée-Oudinot",
+      "Confrontation entre justice institutionnelle et émotion populaire"
+    ],
+    "faits_marquants": [
+      "Épidémie de dengue : 55 cas recensés et appel à la vigilance",
+      "Fermeture du collège privé Francis Rougé de Thio",
+      "Renvoi du procès de la fondatrice de Beebanks (préjudice de 300M CFP)",
+      "Impact de la baisse de production de nickel indonésien sur le marché local",
+      "Dégâts causés par la tempête Nil's en France métropolitaine"
+    ]
+  },
+  {
+    "id": 20260213004,
+    "titre": "Journal Radio - Radio Djiido - 13/02/2026",
+    "media": "Radio Djiido",
+    "introduction": "Analyse du journal de Radio Djiido. Une large part accordée aux voix indépendantistes et aux enjeux du bassin Pacifique.",
+    "verdict_ia": "Pluralisme marqué par une forte présence du mouvement indépendantiste et une ouverture géopolitique régionale.",
+    "analyse_pluralisme": [
+      "Relais des communiqués officiels du FLNKS et du Palika",
+      "Débat d'orientation budgétaire aux Îles (gestion de la dette provinciale)",
+      "Contestation de la légitimité des élus dans le cadre institutionnel actuel",
+      "Interpellation des politiques par le WWF sur les enjeux environnementaux"
+    ],
+    "faits_marquants": [
+      "Mobilisation politique indépendantiste les 13 et 14 février",
+      "Crise des transports aériens (Aircal) et desserte critique de Tiga",
+      "Rationalisation de la carte scolaire et création de groupements d'écoles",
+      "Projet de changement de nom constitutionnel à Nauru ('Naoero')",
+      "Renforcement des protections juridiques au sein du Commonwealth"
+    ]
+  },
+  {
+    "id": 20260213005,
+    "titre": "Journal TV - Caledonia - 13/02/2026",
+    "media": "Caledonia",
+    "introduction": "Analyse centrée sur les conséquences locales de la crise du nickel et la reconstruction du lien social.",
+    "verdict_ia": "Traitement axé sur la résilience économique et le respect des institutions républicaines en Province Nord.",
+    "analyse_pluralisme": [
+      "Mise en avant des politiques d'inclusion scolaire (classes ULIS)",
+      "Analyse de la souveraineté alimentaire et énergétique du territoire",
+      "Relais des appels au calme et au respect des agents publics de santé",
+      "Focus sur la transmission de la mémoire du bagne en Nouvelle-Calédonie"
+    ],
+    "faits_marquants": [
+      "Saturation du marché mondial du nickel : stratégie de défense d'Eramet",
+      "Défis de la rentrée scolaire : gestion des internats et des transports",
+      "Lutte contre les incendies de végétation persistants dans le Nord",
+      "Inauguration d'infrastructures hydrauliques en zone rurale",
+      "Performance des athlètes français aux JO d'hiver"
+    ]
+  },
+  {
+    "id": 20260213006,
+    "titre": "Journal Radio - RRB - 13/02/2026",
+    "media": "RRB",
+    "introduction": "Focus sur l'actualité des forces loyalistes et les enjeux économiques majeurs de la Province Sud.",
+    "verdict_ia": "Forte représentation des institutions provinciales et du monde entrepreneurial calédonien.",
+    "analyse_pluralisme": [
+      "Soutien au budget 2026 de la Province Sud (solidarité et jeunesse)",
+      "Analyse de la candidature de Sonia Lagarde aux municipales de Nouméa",
+      "Rôle des organisations patronales (MEDEF) dans le débat politique territorial",
+      "Critiques de la politique énergétique nationale par les groupes d'opposition"
+    ],
+    "faits_marquants": [
+      "Affaire Solomita : un système de fausses factures sur des marchés publics",
+      "Lancement de l'Atlas de la biodiversité à Dumbéa",
+      "Baisse de fréquentation des commerces de Nouméa (sentiment d'insécurité)",
+      "Vols Aircal : transfert définitif des opérations vers La Tontouta",
+      "Célébration des réussites scolaires par les élus de la Province Sud"
+    ]
+  },
+  {
+    "id": 20260213007,
+    "titre": "Journal TV - NC la 1ère - 13/02/2026",
+    "media": "NC la 1ère",
+    "introduction": "Synthèse télévisée des enjeux de la rentrée et des grands dossiers judiciaires en cours.",
+    "verdict_ia": "Équilibre entre actualités locales, régionales (Australie) et nationales françaises.",
+    "analyse_pluralisme": [
+      "Expression des préoccupations des commerçants face à l'insécurité",
+      "Pluralisme identitaire à travers la commémoration de l'histoire du bagne",
+      "Débat sur la décolonisation et la souveraineté partagée (UNI vs UC)",
+      "Visibilité des tensions internationales en Australie (conflit à Gaza)"
+    ],
+    "faits_marquants": [
+      "Arrestation d'un mineur pour règlement de comptes à Marseille",
+      "Manifestations pro-palestiniennes massives à Sydney et Melbourne",
+      "Vigilance dengue : confirmation de l'épidémie sur l'ensemble du territoire",
+      "Problématique de la ressource en eau à Moindou (+39% de population)",
+      "Reconnaissance UNESCO pour le travail de mémoire historique local"
+    ]
+  },
+  {
     "id": 20260212001,
     "titre": "Journal Radio - Océane FM - 12/02/2026",
     "media": "Océane FM",
