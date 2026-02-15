@@ -1,4 +1,123 @@
 [
+  {
+    "id": 20260213001,
+    "type": "Audio",
+    "media": "NRJ",
+    "filename": "NRJ 13022026.mp3",
+    "timestamp": "2026-02-13",
+    "duration": 780,
+    "topics": ["Institutionnel", "Municipales 2026", "Énergie", "Justice"],
+    "summary": "Position de l'UNI sur l'accord d'Oudinot et annonce de listes pour les municipales. Focus sur la démission de Mimsy Déléa du MEDEF.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Jean-Pierre Djaïwé", "camp": "Indépendantiste (UNI)", "speech_time": 240 },
+      { "name": "Mimsy Déléa", "camp": "Société Civile", "speech_time": 180 },
+      { "name": "Sébastien Lecornu", "camp": "Gouvernement FR", "speech_time": 120 }
+    ]
+  },
+  {
+    "id": 20260213002,
+    "type": "Audio",
+    "media": "Océane FM",
+    "filename": "OCEANE 13022026.mp3",
+    "timestamp": "2026-02-13",
+    "duration": 600,
+    "topics": ["Municipales", "Économie (ESS)", "Budget Provincial", "Éthique"],
+    "summary": "Lancement de la campagne à Bourail et focus sur l'économie sociale et solidaire comme levier de reconstruction.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Livaï Roy", "camp": "Divers", "speech_time": 150 },
+      { "name": "Sonia Lagarde", "camp": "Loyaliste", "speech_time": 120 },
+      { "name": "Paul Néaoutyine", "camp": "Indépendantiste (UNI)", "speech_time": 90 }
+    ]
+  },
+  {
+    "id": 20260213003,
+    "type": "Audio",
+    "media": "NC la 1ère",
+    "filename": "NC1ERER 13022026.mp3",
+    "timestamp": "2026-02-13",
+    "duration": 840,
+    "topics": ["Santé (Dengue)", "Éducation", "Justice", "Nickel"],
+    "summary": "Alerte épidémique de dengue et dossier sur le renvoi du procès Beebanks. Analyse de l'impact du nickel indonésien.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Larissa Tono", "camp": "Syndical (UTCF-CGT)", "speech_time": 140 },
+      { "name": "Leïla Solomita", "camp": "Justice", "speech_time": 100 },
+      { "name": "Pascal Sawa", "camp": "Indépendantiste (FLNKS)", "speech_time": 160 }
+    ]
+  },
+  {
+    "id": 20260213004,
+    "type": "Audio",
+    "media": "Radio Djiido",
+    "filename": "DJIIDO 13022026.mp3",
+    "timestamp": "2026-02-13",
+    "duration": 900,
+    "topics": ["Mobilisation", "Budget Iles", "Transports", "Pacifique"],
+    "summary": "Appel à la mobilisation du FLNKS et difficultés budgétaires en Province des Îles. Actualité institutionnelle à Nauru.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Dominique Fochi", "camp": "Indépendantiste (UC)", "speech_time": 300 },
+      { "name": "Mathias Waneux", "camp": "Indépendantiste", "speech_time": 200 },
+      { "name": "Victor Tutugoro", "camp": "Indépendantiste (UPM)", "speech_time": 150 }
+    ]
+  },
+  {
+    "id": 20260213005,
+    "type": "video",
+    "media": "Caledonia",
+    "filename": "CALEDONIA 13022026.mp4",
+    "timestamp": "2026-02-13",
+    "duration": 600,
+    "topics": ["Nickel", "Éducation", "Mémoire", "Infrastructures"],
+    "summary": "Conséquences de la baisse de production d'Eramet. Reportage sur l'inclusion scolaire et l'histoire du bagne.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Christel Bories", "camp": "Économique (Eramet)", "speech_time": 120 },
+      { "name": "Isabelle Champmoreau", "camp": "Loyaliste", "speech_time": 150 },
+      { "name": "Arnaud Banfi", "camp": "Société Civile", "speech_time": 90 }
+    ]
+  },
+  {
+    "id": 20260213006,
+    "type": "Audio",
+    "media": "RRB",
+    "filename": "RRB 13022026.mp3",
+    "timestamp": "2026-02-13",
+    "duration": 720,
+    "topics": ["Politique", "Économie", "Sécurité", "Biodiversité"],
+    "summary": "Analyse du budget provincial Sud. Candidature de Sonia Lagarde et enquête sur le sentiment d'insécurité à Nouméa.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Sonia Backès", "camp": "Loyaliste", "speech_time": 210 },
+      { "name": "Sonia Lagarde", "camp": "Loyaliste", "speech_time": 180 },
+      { "name": "Nicolas Metzdorf", "camp": "Loyaliste", "speech_time": 120 }
+    ]
+  },
+  {
+    "id": 20260213007,
+    "type": "video",
+    "media": "NC la 1ère",
+    "filename": "NC1ERE 13022026.mp4",
+    "timestamp": "2026-02-13",
+    "duration": 1200,
+    "topics": ["Justice", "International", "Santé", "Patrimoine"],
+    "summary": "Édition traitant des manifestations en Australie (Herzog), de l'épidémie de dengue et de la mémoire du bagne.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Isaac Herzog", "camp": "International", "speech_time": 60 },
+      { "name": "Emmanuel Tjibaou", "camp": "Indépendantiste", "speech_time": 150 },
+      { "name": "Intervenant DASS", "camp": "Neutre", "speech_time": 90 }
+    ]
+  },
 {
     "id": 20260212001,
     "type": "Audio",
