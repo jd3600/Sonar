@@ -1,5 +1,125 @@
 [
   {
+    "id": 20260216001,
+    "titre": "Journal TV - NC la 1ère - 16/02/2026",
+    "media": "NC la 1ère",
+    "introduction": "Analyse du JT du 16/02 centrée sur une rentrée scolaire 2026 placée sous le signe de la reconstruction et de la résilience, deux ans après les émeutes de 2024.",
+    "verdict_ia": "Pluralisme institutionnel marqué par la parole de l'État assurant la continuité républicaine face aux défis socio-économiques.",
+    "analyse_pluralisme": [
+      "Parole centrale au Vice-recteur Didier Vin-Datiche, représentant de l'État français",
+      "Mise en avant de la gestion des infrastructures scolaires précaires (Lycée Pétro Attiti, École Daniel Talon)",
+      "Focus sur l'inclusion scolaire à Lifou (classe CLIS) malgré le manque de moyens",
+      "Diagnostic électoral sur la commune de Poya axé sur le sentiment d'abandon de la jeunesse"
+    ],
+    "faits_marquants": [
+      "Rentrée scolaire jugée 'fluide et sereine' par le Vice-rectorat malgré des effectifs en baisse",
+      "Fermeture définitive de l'école des Orchidées et réorganisation vers l'école Daniel Talon",
+      "Difficultés à Hienghène : rentrée sans cantine, les parents doivent fournir des gamelles",
+      "Célébration du Nouvel An Vietnamien (année du Cheval de Feu) comme facteur de cohésion",
+      "Priorité électorale à Poya : sécurité et gestion de la jeunesse au-delà des clivages habituels"
+    ]
+  },
+  {
+    "id": 20260216002,
+    "titre": "Journal TV - Caledonia - 16/02/2026",
+    "media": "Caledonia",
+    "introduction": "Analyse centrée sur une rentrée scolaire sous haute tension, marquée par des crises financières institutionnelles et des aléas climatiques.",
+    "verdict_ia": "Pluralisme illustré par le bras de fer entre le Gouvernement loyaliste et l'enseignement catholique (DDEC) sur la répartition des ressources.",
+    "analyse_pluralisme": [
+      "Intervention d'Isabelle Champmoreau (Gouvernement/Loyaliste) exigeant la transparence financière de la DDEC",
+      "Réponse du directeur de la DDEC, Manoël Van Aerschodt, dénonçant le manque de subventions",
+      "Expression de l'autorité municipale à Poindimié (Jehudit Pwija, indépendantiste) sur les problèmes d'eau potable",
+      "Adaptation du réseau de transport Tanéo (ligne N2) suite aux destructions de 2024"
+    ],
+    "faits_marquants": [
+      "Crise de la DDEC : fermeture de 5 internats et 7 cantines pour un déficit de 630 millions FCFP",
+      "Rentrée chaotique à Poindimié : coupure d'eau potable suite aux fortes pluies",
+      "Nombre total d'élèves sur le territoire pour 2026 : 59 782",
+      "Ouverture exceptionnelle de l'internat de Maré aux parents pour faciliter l'adaptation des 6èmes",
+      "Audit exigé par le gouvernement avant tout déblocage de fonds supplémentaires pour le privé"
+    ]
+  },
+  {
+    "id": 20260216003,
+    "titre": "Journal Radio - NRJ - 16/02/2026",
+    "media": "NRJ",
+    "introduction": "Édition couvrant un large spectre, de la politique municipale calédonienne aux dynamiques internationales.",
+    "verdict_ia": "Pluralisme électoral manifeste à travers la multiplicité des candidatures et des coalitions pour les municipales de Nouméa.",
+    "analyse_pluralisme": [
+      "Candidature de Philippe Dunoyer (Nouméa à l'Après) soutenu par Calédonie Ensemble et l'Éveil Océanien",
+      "Énumération des forces adverses : Sonia Lagarde, Virginie Ruffenach (LR), Muneiko Aokas (MNIS)",
+      "Mobilisation du FLNKS contre l'accord de Bourail en vue de l'examen du statut à Paris",
+      "Résonance des courants d'extrême droite français (Zemmour, Maréchal) suite au décès d'un militant"
+    ],
+    "faits_marquants": [
+      "Annonce de listes citoyennes à Nouméa (Véronique Forestier)",
+      "Critique de la présidence Trump par Barack Obama relayée sur les ondes",
+      "Saisie de cocaïne en haute mer par les forces de l'ordre",
+      "Mesures gouvernementales pour améliorer l'accès aux ophtalmologistes",
+      "Hommage militant à Paris suite à la mort de Quentin Derank"
+    ]
+  },
+  {
+    "id": 20260216004,
+    "titre": "Journal Radio - NC la 1ère (Radio) - 16/02/2026",
+    "media": "NC la 1ère",
+    "introduction": "Analyse d'un pluralisme riche couvrant les enjeux éducatifs, la gouvernance territoriale et les tensions identitaires.",
+    "verdict_ia": "Paysage politique complexe où s'entremêlent décisions administratives, dynamiques économiques et structures coutumières.",
+    "analyse_pluralisme": [
+      "Critique des décisions de la DDEC par Sylvain Onze (Fédération des parents d'élèves)",
+      "Focus sur Poya avec la maire Évelyne Goroatou (UC-FLNKS) représentant le camp indépendantiste",
+      "Action du Comité de coordination coutumière d'IAAI concernant l'aéroport d'Ouvéa",
+      "Débat national français sur les violences politiques (Affaire Quentin / Rima Hassan)"
+    ],
+    "faits_marquants": [
+      "Dotation de 51 milliards de francs pour l'enseignement public et privé",
+      "Suppression de 75 salariés suite aux fermetures dans l'enseignement catholique",
+      "Enjeux du nickel au cœur de la campagne municipale à Poya",
+      "Alertes météo provoquant le report de la rentrée à Ponérihouen",
+      "Enquête pour 'coups mortels aggravés' suite à une altercation politique à Paris"
+    ]
+  },
+  {
+    "id": 20260216005,
+    "titre": "Journal Radio - RRB - 16/02/2026",
+    "media": "RRB",
+    "introduction": "Panorama du pluralisme local et international, mettant en lumière les clivages et la fragmentation politique.",
+    "verdict_ia": "Mise en évidence d'une fracture au sein même des camps indépendantistes et non-indépendantistes sur l'avenir du territoire.",
+    "analyse_pluralisme": [
+      "Chronique d'Élizabeth Noire sur les divisions internes (UNI vs UC-CCT)",
+      "Émergence d'une 'troisième voie' et de listes sans étiquette s'affranchissant des partis",
+      "Débat national sur la fin de vie (soins palliatifs vs droit à mourir)",
+      "Accusations croisées entre Gérald Darmanin et LFI sur la violence politique"
+    ],
+    "faits_marquants": [
+      "Annonce australienne d'un vaste chantier naval et de sous-marins nucléaires (AUKUS)",
+      "Coopération franco-algérienne sur l'immigration (déplacement de Laurent Nunez)",
+      "Opérations de sécurisation et fouilles de sacs aux abords des établissements scolaires",
+      "Incendie au centre d'enfouissement de Gadji",
+      "Difficulté du Haut-Commissariat à classer les nuances politiques des nouvelles listes"
+    ]
+  },
+  {
+    "id": 20260216006,
+    "titre": "Journal Radio - Océane FM - 16/02/2026",
+    "media": "Océane FM",
+    "introduction": "Focus sur les dynamiques électorales locales et les tentatives de dépassement des clivages traditionnels.",
+    "verdict_ia": "Pluralisme profond illustré par la diversité idéologique allant du camp indépendantiste radical aux listes d'ouverture.",
+    "analyse_pluralisme": [
+      "Stratégie de 'listes d'ouverture' pour rassembler des candidats d'horizons divers",
+      "Formation d'un intergroupe entre 'Calédonie Ensemble' et 'L'Éveil Océanien'",
+      "Catégorisation des courants : indépendantistes et non-indépendantistes",
+      "Candidature de Mila Kulu Tokumuli (Éveil Océanien) à Païta"
+    ],
+    "faits_marquants": [
+      "Gouvernance de la santé : régulation de l'accès aux ophtalmologistes",
+      "Mouvement 'Nouméa Cœur Battant' actif pour la compétition démocratique",
+      "Analyse des résultats de 2020 pour préparer les futures alliances",
+      "Rôle des animateurs de proximité dans les campagnes locales",
+      "Volonté de coordination institutionnelle pour sécuriser les parcours de soins"
+    ]
+  },
+  {
     "id": 20260213001,
     "titre": "Journal Radio - NRJ - 13/02/2026",
     "media": "NRJ",
