@@ -1,5 +1,77 @@
 [
   {
+    "id": 20260216001,
+    "type": "video",
+    "media": "NC la 1ère",
+    "filename": "NC1ERE_16022026.mp4",
+    "topics": ["Éducation", "Reconstruction", "État", "Municipales (Poya)"],
+    "speakers": [
+      { "name": "Didier Vin-Datiche", "camp": "État (Vice-recteur)", "speech_time": 320 },
+      { "name": "Hélène Wananije", "camp": "Institutionnel (Lifou)", "speech_time": 150 },
+      { "name": "Patrick Guillon", "camp": "Société Civile", "speech_time": 120 }
+    ]
+  },
+  {
+    "id": 20260216002,
+    "type": "video",
+    "media": "Caledonia",
+    "filename": "CALEDONIA_16022026.mp4",
+    "topics": ["Éducation", "Crise DDEC", "Météo", "Transports"],
+    "speakers": [
+      { "name": "Isabelle Champmoreau", "camp": "Loyaliste (Gouv. NC)", "speech_time": 240 },
+      { "name": "Manoël Van Aerschodt", "camp": "Institutionnel (DDEC)", "speech_time": 180 },
+      { "name": "Jehudit Pwija", "camp": "Indépendantiste (Poindimié)", "speech_time": 110 }
+    ]
+  },
+  {
+    "id": 20260216003,
+    "type": "Audio",
+    "media": "NRJ",
+    "filename": "NRJ_16022026.mp3",
+    "topics": ["Municipales (Nouméa)", "FLNKS", "Santé", "International"],
+    "speakers": [
+      { "name": "Philippe Dunoyer", "camp": "Calédonie Ensemble", "speech_time": 300 },
+      { "name": "Vaimala Faleo", "camp": "L'Éveil Océanien", "speech_time": 140 },
+      { "name": "Barack Obama", "camp": "International", "speech_time": 90 }
+    ]
+  },
+  {
+    "id": 20260216004,
+    "type": "Audio",
+    "media": "NC la 1ère (Radio)",
+    "filename": "NC1ERER_16022026.mp3",
+    "topics": ["Éducation", "Coutumier", "Justice (France)", "Météo"],
+    "speakers": [
+      { "name": "Sylvain Onze", "camp": "Société Civile (Parents)", "speech_time": 160 },
+      { "name": "Évelyne Goroatou", "camp": "Indépendantiste (UC-FLNKS)", "speech_time": 200 },
+      { "name": "Éric Vallon", "camp": "Institutionnel", "speech_time": 120 }
+    ]
+  },
+  {
+    "id": 20260216005,
+    "type": "Audio",
+    "media": "RRB",
+    "filename": "RRB_16022026.mp3",
+    "topics": ["Fragmentation Politique", "Société", "Défense (AUKUS)", "Santé"],
+    "speakers": [
+      { "name": "Élizabeth Noire", "camp": "Analyse", "speech_time": 280 },
+      { "name": "Gérald Darmanin", "camp": "Gouvernement FR", "speech_time": 150 },
+      { "name": "Anthony Albanese", "camp": "International", "speech_time": 100 }
+    ]
+  },
+  {
+    "id": 20260216006,
+    "type": "Audio",
+    "media": "Océane FM",
+    "filename": "OCEANE_16022026.mp3",
+    "topics": ["Alliances Politiques", "Municipales (Païta)", "Santé", "Ouverture"],
+    "speakers": [
+      { "name": "Mila Kulu Tokumuli", "camp": "L'Éveil Océanien", "speech_time": 210 },
+      { "name": "Philippe Dunoyer", "camp": "Calédonie Ensemble", "speech_time": 120 },
+      { "name": "Sonia Lagarde", "camp": "Loyaliste", "speech_time": 80 }
+    ]
+  },
+  {
     "id": 20260213001,
     "type": "Audio",
     "media": "NRJ",
