@@ -109,7 +109,7 @@
     "timestamp": "2026-02-13",
     "duration": 780,
     "topics": ["Institutionnel", "Municipales 2026", "Énergie", "Justice"],
-    "summary": "Position de l'UNI sur l'accord d'Oudinot et démission de Mimsy Déléa du MEDEF.",
+    "summary": "Position de l'UNI sur l'accord d'Oudinot et annonce de listes pour les municipales. Focus sur la démission de Mimsy Déléa du MEDEF.",
     "verdict": "Conforme",
     "analysis_complete": true,
     "speakers": [
@@ -126,7 +126,7 @@
     "timestamp": "2026-02-13",
     "duration": 600,
     "topics": ["Municipales", "Économie (ESS)", "Budget Provincial", "Éthique"],
-    "summary": "Lancement de la campagne à Bourail et focus sur l'économie sociale et solidaire.",
+    "summary": "Lancement de la campagne à Bourail et focus sur l'économie sociale et solidaire comme levier de reconstruction.",
     "verdict": "Conforme",
     "analysis_complete": true,
     "speakers": [
@@ -143,7 +143,7 @@
     "timestamp": "2026-02-13",
     "duration": 840,
     "topics": ["Santé (Dengue)", "Éducation", "Justice", "Nickel"],
-    "summary": "Alerte épidémique de dengue et dossier sur le renvoi du procès Beebanks.",
+    "summary": "Alerte épidémique de dengue et dossier sur le renvoi du procès Beebanks. Analyse de l'impact du nickel indonésien.",
     "verdict": "Conforme",
     "analysis_complete": true,
     "speakers": [
@@ -160,7 +160,7 @@
     "timestamp": "2026-02-13",
     "duration": 900,
     "topics": ["Mobilisation", "Budget Iles", "Transports", "Pacifique"],
-    "summary": "Appel à la mobilisation du FLNKS et difficultés budgétaires en Province des Îles.",
+    "summary": "Appel à la mobilisation du FLNKS et difficultés budgétaires en Province des Îles. Actualité institutionnelle à Nauru.",
     "verdict": "Conforme",
     "analysis_complete": true,
     "speakers": [
@@ -177,7 +177,7 @@
     "timestamp": "2026-02-13",
     "duration": 600,
     "topics": ["Nickel", "Éducation", "Mémoire", "Infrastructures"],
-    "summary": "Conséquences de la baisse de production d'Eramet. Reportage sur l'inclusion scolaire.",
+    "summary": "Conséquences de la baisse de production d'Eramet. Reportage sur l'inclusion scolaire et l'histoire du bagne.",
     "verdict": "Conforme",
     "analysis_complete": true,
     "speakers": [
@@ -194,7 +194,7 @@
     "timestamp": "2026-02-13",
     "duration": 720,
     "topics": ["Politique", "Économie", "Sécurité", "Biodiversité"],
-    "summary": "Analyse du budget provincial Sud et candidature de Sonia Lagarde.",
+    "summary": "Analyse du budget provincial Sud. Candidature de Sonia Lagarde et enquête sur le sentiment d'insécurité à Nouméa.",
     "verdict": "Conforme",
     "analysis_complete": true,
     "speakers": [
@@ -211,7 +211,7 @@
     "timestamp": "2026-02-13",
     "duration": 1200,
     "topics": ["Justice", "International", "Santé", "Patrimoine"],
-    "summary": "Dossier Beebanks et crise du nickel chez Eramet.",
+    "summary": "Édition traitant des manifestations en Australie (Herzog), de l'épidémie de dengue et de la mémoire du bagne.",
     "verdict": "Conforme",
     "analysis_complete": true,
     "speakers": [
@@ -228,7 +228,7 @@
     "timestamp": "2026-02-12",
     "duration": 900,
     "topics": ["Gouvernance (Eramet)", "Nominations", "Sécurité", "Cybercriminalité"],
-    "summary": "Tensions stratégiques au sein d'Eramet et nominations nationales.",
+    "summary": "Focus sur les tensions stratégiques au sein d'Eramet et les nominations de hauts fonctionnaires par l'exécutif national.",
     "verdict": "Conforme",
     "analysis_complete": true,
     "speakers": [
@@ -243,12 +243,12 @@
     "filename": "NRJ 12022026.mp3",
     "timestamp": "2026-02-12",
     "duration": 720,
-    "topics": ["Politique", "Justice", "Social", "Économie"],
-    "summary": "Débat sur le statut institutionnel et actualité judiciaire locale.",
+    "topics": ["Justice", "Logement", "International", "Pêche"],
+    "summary": "Traitement du procès des assistants parlementaires du RN, des aides au logement en Province Sud et de la géopolitique au Proche-Orient.",
     "verdict": "Conforme",
     "analysis_complete": true,
     "speakers": [
-      { "name": "Virginie Ruffenach", "camp": "Loyaliste", "speech_time": 180 },
+      { "name": "Marine Le Pen", "camp": "Opposition", "speech_time": 180 },
       { "name": "Louis Mapou", "camp": "Indépendantiste", "speech_time": 150 }
     ]
   },
@@ -395,7 +395,39 @@
     ]
   },
   {
-    "id": 20260210001,
+    "id": 1770729742083,
+    "type": "Audio",
+    "media": "Océane FM",
+    "filename": "OCÉANE_10022026.mp3",
+    "timestamp": "2026-02-10",
+    "duration": 180,
+    "topics": ["Sécurité", "Justice", "Transports", "Culture"],
+    "summary": "Analyse du journal radio d'Océane FM concernant la sécurité à Saint-Quentin et les ajustements du réseau Tanéo.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Journaliste Océane", "camp": "Neutre", "speech_time": 120 },
+      { "name": "Intervenant État", "camp": "Loyaliste", "speech_time": 60 }
+    ]
+  },
+  {
+    "id": 1770729742087,
+    "type": "Audio",
+    "media": "RRB",
+    "filename": "RRB_10022026.mp3",
+    "timestamp": "2026-02-10",
+    "duration": 180,
+    "topics": ["Politique", "Congrès", "Éducation"],
+    "summary": "Analyse de la vie parlementaire au Congrès.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Journaliste RRB", "camp": "Neutre", "speech_time": 90 },
+      { "name": "Élu Loyaliste", "camp": "Loyaliste", "speech_time": 90 }
+    ]
+  },
+  {
+    "id": 2026021001,
     "type": "video",
     "media": "Caledonia",
     "filename": "CALEDONIA_10022026.mp4",
@@ -410,35 +442,6 @@
       { "name": "Gabriella Oujanou", "camp": "Société Civile", "speech_time": 90 },
       { "name": "Claudia Jarossay", "camp": "Société Civile", "speech_time": 80 }
     ]
-  },
-  {
-    "id": 20260210002,
-    "type": "Audio",
-    "media": "RRB",
-    "filename": "RRB_10022026.mp3",
-    "timestamp": "2026-02-10",
-    "duration": 720,
-    "topics": ["Politique", "Sécurité", "Emploi"],
-    "summary": "Réactions politiques locales sur les chiffres du chômage et la sécurité urbaine.",
-    "verdict": "Conforme",
-    "analysis_complete": true,
-    "speakers": [
-      { "name": "Journaliste RRB", "camp": "Neutre", "speech_time": 90 },
-      { "name": "Élu Loyaliste", "camp": "Loyaliste", "speech_time": 90 }
-    ]
-  },
-  {
-    "id": 1770729742083,
-    "type": "video",
-    "media": "NC la 1ère",
-    "filename": "NC1ERE_10022026.mp4",
-    "timestamp": "2026-02-10",
-    "duration": 1200,
-    "topics": ["Actualité", "Faits Divers", "Économie"],
-    "summary": "Journal complet couvrant les thématiques de l'emploi et de la reconstruction industrielle.",
-    "verdict": "Conforme",
-    "analysis_complete": true,
-    "speakers": []
   },
   {
     "id": 1770850000005,
