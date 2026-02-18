@@ -1,5 +1,141 @@
 [
   {
+    "id": 20260217001,
+    "titre": "Journal TV - Caledonia - 17/02/2026",
+    "media": "Caledonia",
+    "introduction": "Édition marquée par une actualité climatique tendue et des réformes structurelles majeures pour l'archipel.",
+    "verdict_ia": "Gestion simultanée d'une crise budgétaire sectorielle et d'une nécessité de réforme législative urgente.",
+    "analyse_pluralisme": [
+      "Expression d'Alcide Ponga sur le sauvetage financier d'Air Calédonie",
+      "Intervention de Naïa Wateou sur l'adoption à l'unanimité de la loi 'présomption de démission'",
+      "Présence de Nicolas Metzdorf (Générations NC) lors des débats sur le droit du travail",
+      "Focus sur la solidarité entre enseignement privé (DDEC) et public à La Foa"
+    ],
+    "faits_marquants": [
+      "Inondations : plus de 230 mm de pluie enregistrés à Koné et Koumac",
+      "Air Calédonie : transfert définitif des vols vers La Tontouta le 2 mars",
+      "Mise en place d'une navette à 500 CFP pour assurer la continuité territoriale",
+      "Report de la rentrée scolaire à Ponérihouen pour cause d'axes routiers coupés",
+      "Formation locale pour la réparation des machines Braille Perkins"
+    ]
+  },
+  {
+    "id": 20260217002,
+    "titre": "Journal TV - NC la 1ère - 17/02/2026",
+    "media": "NC la 1ère",
+    "introduction": "Synthèse des crises météorologiques dans le Nord et des dossiers chauds du gouvernement Ponga.",
+    "verdict_ia": "Forte visibilité de l'exécutif sur les dossiers de transport et d'aménagement, contrebalancée par des enjeux de proximité.",
+    "analyse_pluralisme": [
+      "Justification par Alcide Ponga du déménagement historique d'Aircal",
+      "Gil Brial sur la prolongation des indemnités chômage (maintien dans l'emploi)",
+      "Position de prudence de l'UC-FLNKS sur le caractère expérimental des réformes sociales",
+      "Lancement de la liste citoyenne 'Un cœur pour Païta' par Sylvia Abel"
+    ],
+    "faits_marquants": [
+      "RT1 submergée : 50 cm d'eau à la sortie sud de Poumboût",
+      "Menace de contestation sociale annoncée pour le 2 mars (dossier Tontouta)",
+      "Visite de Matthieu Discour (AFD) réaffirmant le rôle de 'banquier du territoire'",
+      "Coopération régionale : focus sur les liens avec le Vanuatu et la Papouasie",
+      "Note positive : Gabrielle la tortue relâchée après 6 mois de soins à l'Aquarium"
+    ]
+  },
+  {
+    "id": 20260217003,
+    "titre": "Journal Radio - Océane FM - 17/02/2026",
+    "media": "Océane FM",
+    "introduction": "Analyse complexe du paysage politique centré sur les stratégies des municipales 2026.",
+    "verdict_ia": "Mise en lumière d'un paysage politique en effervescence où les lignes traditionnelles se brouillent via des alliances transpartisanes.",
+    "analyse_pluralisme": [
+      "Rivalité vive entre le FLNKS et l'UNI sur la stratégie électorale",
+      "Ambition du FLNKS de transformer les municipales en référendum sur les accords",
+      "Fragmentation du camp non-indépendantiste à Nouméa (cavalier seul du Rassemblement)",
+      "Rôle pivot de Calédoniens Ensemble et de L'Éveil Océanien pour dépasser les clivages"
+    ],
+    "faits_marquants": [
+      "Municipales présentées comme un sondage grandeur nature avant les provinciales",
+      "Objectif de franchir les seuils provinciaux via des listes d'ouverture",
+      "Incertitude des électeurs face au flou idéologique des nouvelles alliances",
+      "Impact de la dégradation économique sur le climat politique et social"
+    ]
+  },
+  {
+    "id": 20260217004,
+    "titre": "Journal Radio - NRJ - 17/02/2026",
+    "media": "NRJ",
+    "introduction": "Aperçu du pluralisme politique abordant les enjeux locaux, nationaux et internationaux.",
+    "verdict_ia": "Équilibre entre les réformes institutionnelles calédoniennes et l'actualité sécuritaire française.",
+    "analyse_pluralisme": [
+      "Opposition frontale du Parti Socialiste (Faure, Vallaud) à la réforme constitutionnelle",
+      "Mise en évidence des difficultés du gouvernement à réunir la majorité des 3/5 au Congrès",
+      "Débats sur l'agression de Lyon : accusations entre l'extrême droite et LFI",
+      "Mention du rôle crucial du FLNKS dans tout accord politique futur"
+    ],
+    "faits_marquants": [
+      "Réforme sociale : adoption de la démission automatique et du principe de carence",
+      "Climat : Janvier 2026 parmi les mois les plus chauds depuis 50 ans",
+      "Crue majeure de la Loire près d'Angers et vigilance rouge en métropole",
+      "Diplomatie : négociations de paix sur l'Ukraine à Genève (Russes, Ukrainiens, Américains)",
+      "Relance de la coopération sécuritaire entre la France et l'Algérie"
+    ]
+  },
+  {
+    "id": 20260217005,
+    "titre": "Journal Radio - Calédonie La 1ère - 17/02/2026",
+    "media": "Calédonie La 1ère",
+    "introduction": "Focus sur les conséquences des intempéries et le dialogue social au Congrès.",
+    "verdict_ia": "Priorité donnée à la sécurité civile et à la continuité du service public de transport.",
+    "analyse_pluralisme": [
+      "Intervention technique de Daniel Houmbouy sur la viabilité économique d'Aircal",
+      "Parole donnée aux usagers des îles inquiets du transfert à La Tontouta",
+      "Débat parlementaire sur le droit au travail en période de crise économique",
+      "Visibilité de l'AFD dans le financement du logement social à Magenta"
+    ],
+    "faits_marquants": [
+      "Blocage de la RT1 à Poumboût : pompiers et habitants mobilisés",
+      "Perturbations majeures des rotations du Betico 2 vers les îles Loyauté",
+      "Lancement de la navette 'La Tontouta Express' pour compenser la fin de Magenta",
+      "Investissement de 200 millions de francs prévu pour l'aménagement aéroportuaire"
+    ]
+  },
+  {
+    "id": 20260217006,
+    "titre": "Journal Radio - Radio Djiido - 17/02/2026",
+    "media": "Radio Djiido",
+    "introduction": "Perspective indépendantiste sur les enjeux de souveraineté et les luttes sociales.",
+    "verdict_ia": "Ton militant axé sur la protection des acquis sociaux et la contestation des réformes jugées unilatérales.",
+    "analyse_pluralisme": [
+      "Critique de la réforme constitutionnelle par les composantes du FLNKS",
+      "Soutien aux revendications des syndicats contre la 'présomption de démission'",
+      "Analyse de l'impact du transfert d'Aircal sur les populations des îles",
+      "Appel à l'unité des forces progressistes pour les municipales"
+    ],
+    "faits_marquants": [
+      "Dénonciation du coût de la vie et de l'éloignement des services publics",
+      "Mobilisation prévue contre le transfert des vols domestiques le 2 mars",
+      "Focus sur les difficultés d'écoulement des produits agricoles de Maré",
+      "Solidarité avec les familles touchées par la crise de l'enseignement privé"
+    ]
+  },
+  {
+    "id": 20260217007,
+    "titre": "Journal Radio - RRB - 17/02/2026",
+    "media": "RRB",
+    "introduction": "Analyse de la stabilité institutionnelle et des réformes économiques portées par la majorité.",
+    "verdict_ia": "Mise en avant de la rationalisation budgétaire et de la sécurité des investissements.",
+    "analyse_pluralisme": [
+      "Appui des élus Loyalistes aux mesures de rigueur pour Air Calédonie",
+      "Explication de la loi sur l'abandon de poste pour soutenir les entreprises",
+      "Soutien à la visite de l'AFD comme levier de développement économique",
+      "Focus sur les enjeux sécuritaires locaux face à l'instabilité sociale"
+    ],
+    "faits_marquants": [
+      "Confirmation des économies d'échelle réalisées par le transfert à La Tontouta",
+      "Vote des dispositifs d'aide au maintien dans l'emploi pour 3 900 salariés",
+      "Importance du pacte de nickel pour l'avenir industriel du territoire",
+      "Bilan positif des soins prodigués à la tortue Gabrielle à l'Aquarium"
+    ]
+  },
+  {
     "id": 20260216001,
     "titre": "Journal TV - NC la 1ère - 16/02/2026",
     "media": "NC la 1ère",
