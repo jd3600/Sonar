@@ -1,5 +1,118 @@
 [
   {
+    "id": 20260217001,
+    "type": "video",
+    "media": "Caledonia",
+    "filename": "CALEDONIA_17022026.mp4",
+    "timestamp": "2026-02-17",
+    "duration": 1320,
+    "topics": ["Transports", "Réforme Emploi", "Météo", "DDEC"],
+    "summary": "Focus sur le transfert d'Air Calédonie à La Tontouta, l'adoption de la loi sur la présomption de démission au Congrès et les inondations dans le Nord.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Alcide Ponga", "camp": "Loyaliste (Rassemblement)", "speech_time": 350 },
+      { "name": "Naïa Wateou", "camp": "Loyaliste (Les Loyalistes)", "speech_time": 180 },
+      { "name": "Nicolas Metzdorf", "camp": "Loyaliste (Générations NC)", "speech_time": 120 }
+    ]
+  },
+  {
+    "id": 20260217002,
+    "type": "video",
+    "media": "NC la 1ère",
+    "filename": "NC1ERE_17022026.mp4",
+    "timestamp": "2026-02-17",
+    "duration": 1500,
+    "topics": ["Météo", "Air Calédonie", "AFD", "Municipales (Païta)"],
+    "summary": "Édition traitant de la coupure de la RT1 à Poumboût, du sauvetage financier d'Aircal et de la visite du directeur de l'AFD.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Alcide Ponga", "camp": "Loyaliste (Gouv. NC)", "speech_time": 320 },
+      { "name": "Gil Brial", "camp": "Loyaliste (MPC)", "speech_time": 150 },
+      { "name": "Sylvia Abel", "camp": "Sans étiquette", "speech_time": 180 }
+    ]
+  },
+  {
+    "id": 20260217003,
+    "type": "Audio",
+    "media": "Océane FM",
+    "filename": "OCEANE_17022026.mp3",
+    "timestamp": "2026-02-17",
+    "duration": 600,
+    "topics": ["Municipales 2026", "Stratégies Politiques", "Alliances"],
+    "summary": "Analyse du paysage politique avant les municipales, focus sur le pluralisme et les listes d'ouverture transpartisanes.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Vaimua Muliava", "camp": "L'Éveil Océanien", "speech_time": 240 },
+      { "name": "Sonia Lagarde", "camp": "Loyaliste", "speech_time": 120 }
+    ]
+  },
+  {
+    "id": 20260217004,
+    "type": "Audio",
+    "media": "NRJ",
+    "filename": "NRJ_17022026.mp3",
+    "timestamp": "2026-02-17",
+    "duration": 720,
+    "topics": ["Réforme Constitutionnelle", "Faits divers", "Météo France"],
+    "summary": "Réactions à la réforme constitutionnelle en France et point sur la loi 'présomption de démission' en Nouvelle-Calédonie.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Olivier Faure", "camp": "PS (France)", "speech_time": 150 },
+      { "name": "Gérald Darmanin", "camp": "Gouv. FR", "speech_time": 100 }
+    ]
+  },
+  {
+    "id": 20260217005,
+    "type": "Audio",
+    "media": "Calédonie La 1ère",
+    "filename": "NC1ERER_17022026.mp3",
+    "timestamp": "2026-02-17",
+    "duration": 840,
+    "topics": ["Aircal", "Intempéries", "Social", "Logement"],
+    "summary": "Journal radio sur les perturbations liées aux pluies et les inquiétudes des usagers des îles face au transfert vers La Tontouta.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Daniel Houmbouy", "camp": "Direction Aircal", "speech_time": 210 },
+      { "name": "Matthieu Discour", "camp": "Institutionnel (AFD)", "speech_time": 140 }
+    ]
+  },
+  {
+    "id": 20260217006,
+    "type": "Audio",
+    "media": "Radio Djiido",
+    "filename": "DJIIDO_17022026.mp3",
+    "timestamp": "2026-02-17",
+    "duration": 900,
+    "topics": ["Revendications", "FLNKS", "Transport", "Foncier"],
+    "summary": "Positionnement indépendantiste sur le transfert d'Air Calédonie et les enjeux de souveraineté électorale.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Victor Tutugoro", "camp": "Indépendantiste (UPM)", "speech_time": 300 }
+    ]
+  },
+  {
+    "id": 20260217007,
+    "type": "Audio",
+    "media": "RRB",
+    "filename": "RRB_17022026.mp3",
+    "timestamp": "2026-02-17",
+    "duration": 780,
+    "topics": ["Nickel", "Rigueur Budgétaire", "Sécurité", "Congrès"],
+    "summary": "Soutien aux réformes du gouvernement Ponga et analyse des mesures de maintien dans l'emploi pour 3 900 salariés.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Sonia Backès", "camp": "Loyaliste", "speech_time": 220 },
+      { "name": "Gil Brial", "camp": "Loyaliste", "speech_time": 160 }
+    ]
+  },
+  {
     "id": 20260216001,
     "type": "video",
     "media": "NC la 1ère",
