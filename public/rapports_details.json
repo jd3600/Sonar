@@ -1,5 +1,139 @@
 [
   {
+    "id": 20260218001,
+    "titre": "Journal Radio - NRJ - 18/02/2026",
+    "media": "NRJ",
+    "introduction": "Analyse de la fracture politique nationale concernant l'avenir constitutionnel de la Nouvelle-Calédonie.",
+    "verdict_ia": "Mise en évidence d'une impasse parlementaire nationale impactant directement le calendrier local.",
+    "analyse_pluralisme": [
+      "Critique virulente du PS contre le texte constitutionnel jugé 'menaçant'",
+      "Mise en lumière du désaccord profond entre le Gouvernement FR et l'opposition de gauche",
+      "Évocation de l'absence de consensus avec le FLNKS comme point de blocage majeur",
+      "Focus sur l'activité législative du Congrès sur les dossiers sociaux"
+    ],
+    "faits_marquants": [
+      "Le PS refuse de voter la réforme constitutionnelle (69 députés)",
+      "Menace sur la majorité des 3/5èmes nécessaire au Congrès de Versailles",
+      "Adaptation des lois sur l'emploi local par les élus calédoniens",
+      "Tensions palpables sur la méthode Darmanin pour le dossier calédonien"
+    ]
+  },
+  {
+    "id": 20260218002,
+    "titre": "Journal TV - Caledonia - 18/02/2026",
+    "media": "Caledonia",
+    "introduction": "Édition consacrée aux urgences économiques et aux mouvements sociaux sur l'ensemble du territoire.",
+    "verdict_ia": "Équilibre entre les enjeux industriels de grande échelle et les revendications sociales des citoyens.",
+    "analyse_pluralisme": [
+      "Vaimua Muliava sur les enjeux de solidarité et de réforme des retraites",
+      "Yannick Slamet sur la gestion du risque nickel par le gouvernement local",
+      "Parole donnée aux manifestants contre la réforme de la protection sociale",
+      "Reportage terrain sur les sinistrés du Nord après les pluies"
+    ],
+    "faits_marquants": [
+      "Nickel : les syndicats demandent plus de garanties sur le pacte de sauvetage",
+      "Social : manifestation devant le Congrès contre la réforme des retraites",
+      "Météo : constat des dégâts à Poumboût après les inondations de la veille",
+      "Éducation : suivi de la rentrée dans les zones impactées par les intempéries"
+    ]
+  },
+  {
+    "id": 20260218003,
+    "titre": "Journal TV - NC la 1ère - 18/02/2026",
+    "media": "NC la 1ère",
+    "introduction": "Synthèse télévisée traitant de l'instabilité institutionnelle et des nouvelles précarités sociales.",
+    "verdict_ia": "Traitement approfondi des mutations sociétales calédoniennes, du nickel à la lutte contre les discriminations.",
+    "analyse_pluralisme": [
+      "Christopher Gygès exprimant l'inquiétude loyaliste face au blocage à Paris",
+      "Focus sur la précarité des jeunes avec le témoignage d'étudiants de l'UNC",
+      "Débat sur la transphobie avec l'intervention de l'association Prismes",
+      "Analyse de l'impasse politique rendant les provinciales instables"
+    ],
+    "faits_marquants": [
+      "Ouverture d'une épicerie solidaire à l'Université (UNC)",
+      "Meurtre de Joéla : mobilisation contre la transphobie et les discours haineux",
+      "Pacte Nickel : discussions tendues sur la contribution de l'État",
+      "Impasse au Congrès de Versailles sur le dégel du corps électoral",
+      "Libération de la tortue Gabrielle (sujet transversal positif)"
+    ]
+  },
+  {
+    "id": 20260218004,
+    "titre": "Journal Radio - Océane FM - 18/02/2026",
+    "media": "Océane FM",
+    "introduction": "Émission centrée sur les préoccupations quotidiennes des Calédoniens à l'approche des municipales.",
+    "verdict_ia": "Journalisme de proximité axé sur le lien entre pouvoir d'achat et échéances électorales.",
+    "analyse_pluralisme": [
+      "Critiques des associations de consommateurs sur l'inaction politique face aux prix",
+      "Analyse des stratégies de campagne des candidats à Nouméa et Païta",
+      "Mise en avant des besoins de la 'classe moyenne' calédonienne",
+      "Pluralisme des listes citoyennes en Brousse"
+    ],
+    "faits_marquants": [
+      "Le coût de la vie devient le premier critère de choix pour les municipales",
+      "Focus sur les prix alimentaires en hausse constante depuis 6 mois",
+      "Difficultés logistiques persistantes pour les commerçants isolés",
+      "Multiplication des réunions publiques de quartier"
+    ]
+  },
+  {
+    "id": 20260218005,
+    "titre": "Journal Radio - Radio Djiido - 18/02/2026",
+    "media": "Radio Djiido",
+    "introduction": "Édition axée sur la résistance institutionnelle et la défense des intérêts du peuple premier.",
+    "verdict_ia": "Ligne éditoriale centrée sur la vigilance face aux décisions prises à Paris et au Congrès.",
+    "analyse_pluralisme": [
+      "Explication de la position indépendantiste sur le refus du dégel électoral",
+      "Critique de la gestion gouvernementale de la filière nickel",
+      "Appel à l'unité syndicale et politique contre les réformes 'anti-sociales'",
+      "Focus sur la mobilisation permanente dans les communes"
+    ],
+    "faits_marquants": [
+      "Satisfaction relative suite au blocage du PS à l'Assemblée Nationale",
+      "Dénonciation de la précarité croissante dans les tribus",
+      "Revendications pour une gestion 100% locale de la ressource nickel",
+      "Coordination des actions de protestation pour le mois de mars"
+    ]
+  },
+  {
+    "id": 20260218006,
+    "titre": "Journal Radio - RRB - 18/02/2026",
+    "media": "RRB",
+    "introduction": "Analyse de la situation sécuritaire et économique sous l'angle de la responsabilité politique.",
+    "verdict_ia": "Forte promotion des mesures de stabilité et de maintien de l'ordre public.",
+    "analyse_pluralisme": [
+      "Sonia Backès sur le financement de la sécurité urbaine en Province Sud",
+      "Soutien au pacte de nickel pour éviter la faillite des usines",
+      "Inquiétude face aux blocages institutionnels qui freinent l'économie",
+      "Mise en avant des réussites du secteur privé local"
+    ],
+    "faits_marquants": [
+      "Nouvelles dotations pour la police municipale à Nouméa",
+      "Alerte sur la trésorerie des PME calédoniennes",
+      "Soutien à la réforme constitutionnelle pour sortir de l'incertitude",
+      "Focus sur le rayonnement régional de la Nouvelle-Calédonie"
+    ]
+  },
+  {
+    "id": 20260218007,
+    "titre": "Journal Radio - Calédonie La 1ère (Radio) - 18/02/2026",
+    "media": "Calédonie La 1ère (Radio)",
+    "introduction": "Point sur l'actualité sociale et sanitaire de l'archipel.",
+    "verdict_ia": "Couverture factuelle des mouvements de protestation et des enjeux de santé publique.",
+    "analyse_pluralisme": [
+      "Voix des leaders syndicaux sur le mécontentement social",
+      "Réponses institutionnelles sur la gestion de l'épidémie de dengue",
+      "Analyse de l'impact des transports sur la vie chère",
+      "Débats sur la fiscalité locale"
+    ],
+    "faits_marquants": [
+      "Grève tournante dans les services publics contre la vie chère",
+      "Progression de l'épidémie de dengue : appel à la vigilance",
+      "Problèmes de desserte maritime pour les îles",
+      "Bilan de la rentrée scolaire après les épisodes pluvieux"
+    ]
+  },
+  {
     "id": 20260217001,
     "titre": "Journal TV - Caledonia - 17/02/2026",
     "media": "Caledonia",
