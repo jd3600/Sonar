@@ -1,5 +1,114 @@
 [
   {
+    "id": 20260218001,
+    "type": "Audio",
+    "media": "NRJ",
+    "filename": "NRJ 18022026.mp3",
+    "timestamp": "2026-02-18",
+    "duration": 720,
+    "topics": ["Réforme Constitutionnelle", "Législation Sociale", "PS", "FLNKS"],
+    "summary": "Analyse du blocage de la réforme constitutionnelle par le Parti Socialiste et focus sur les modifications législatives du Congrès concernant l'emploi.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Olivier Faure", "camp": "PS (Opposition FR)", "speech_time": 180 },
+      { "name": "Boris Vallaud", "camp": "PS (Opposition FR)", "speech_time": 120 },
+      { "name": "Gérald Darmanin", "camp": "Gouvernement FR", "speech_time": 90 }
+    ]
+  },
+  {
+    "id": 20260218002,
+    "type": "video",
+    "media": "Caledonia",
+    "filename": "CALEDONIA_18022026.mp4",
+    "timestamp": "2026-02-18",
+    "duration": 600,
+    "topics": ["Nickel", "Retraites", "Social", "Inondations"],
+    "summary": "Actualité dominée par le plan de sauvetage du nickel, la manifestation contre la réforme des retraites et les dégâts des eaux à Poumboût.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Vaimua Muliava", "camp": "L'Éveil Océanien", "speech_time": 210 },
+      { "name": "Yannick Slamet", "camp": "Indépendantiste (UNI)", "speech_time": 150 }
+    ]
+  },
+  {
+    "id": 20260218003,
+    "type": "video",
+    "media": "NC la 1ère",
+    "filename": "NC1ERE_18022026.mp4",
+    "timestamp": "2026-02-18",
+    "duration": 1200,
+    "topics": ["Nickel", "Politique", "Précarité étudiante", "Transphobie"],
+    "summary": "Dossier sur le pacte de nickel, l'impasse institutionnelle au Congrès de Versailles et l'ouverture d'une épicerie solidaire à l'UNC.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Christopher Gygès", "camp": "Loyaliste (Les Loyalistes)", "speech_time": 240 },
+      { "name": "Frédérique Cid", "camp": "Société Civile (Prismes)", "speech_time": 180 }
+    ]
+  },
+  {
+    "id": 20260218004,
+    "type": "Audio",
+    "media": "Océane FM",
+    "filename": "OCEANE_18022026.mp3",
+    "timestamp": "2026-02-18",
+    "duration": 600,
+    "topics": ["Municipales 2026", "Économie", "Consommation"],
+    "summary": "Débat sur l'impact du coût de la vie sur les intentions de vote aux municipales et les stratégies de proximité des candidats.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Intervenant UFC-QC", "camp": "Société Civile", "speech_time": 140 }
+    ]
+  },
+  {
+    "id": 20260218005,
+    "type": "Audio",
+    "media": "Radio Djiido",
+    "filename": "DJIIDO_18022026.mp3",
+    "timestamp": "2026-02-18",
+    "duration": 900,
+    "topics": ["Souveraineté", "Congrès de Versailles", "Mobilisation"],
+    "summary": "Réactions à l'impasse constitutionnelle et appel au maintien de la mobilisation indépendantiste contre le dégel du corps électoral.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Représentant FLNKS", "camp": "Indépendantiste", "speech_time": 320 }
+    ]
+  },
+  {
+    "id": 20260218006,
+    "type": "Audio",
+    "media": "RRB",
+    "filename": "RRB_18022026.mp3",
+    "timestamp": "2026-02-18",
+    "duration": 780,
+    "topics": ["Sécurité", "Économie", "Nickel"],
+    "summary": "Focus sur les enjeux de sécurité urbaine et le soutien aux réformes économiques portées par la Province Sud.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Sonia Backès", "camp": "Loyaliste", "speech_time": 250 }
+    ]
+  },
+  {
+    "id": 20260218007,
+    "type": "Audio",
+    "media": "Calédonie La 1ère (Radio)",
+    "filename": "NC1ERER_18022026.mp3",
+    "timestamp": "2026-02-18",
+    "duration": 840,
+    "topics": ["Retraites", "Santé", "Vie chère"],
+    "summary": "Compte-rendu de la mobilisation syndicale contre la réforme des retraites et point sur l'inflation des produits alimentaires.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Représentant Intersyndicale", "camp": "Syndicat", "speech_time": 200 }
+    ]
+  },
+  {
     "id": 20260217001,
     "type": "video",
     "media": "Caledonia",
