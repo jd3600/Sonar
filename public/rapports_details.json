@@ -1,5 +1,138 @@
 [
   {
+    "id": 20260219001,
+    "titre": "Journal TV - Caledonia - 19/02/2026",
+    "media": "Caledonia",
+    "introduction": "Édition focalisée sur la reconstruction post-émeutes et les leviers économiques de l'archipel.",
+    "verdict_ia": "Mise en lumière de la dépendance technique et financière vis-à-vis de l'État pour la reconstruction.",
+    "analyse_pluralisme": [
+      "Christopher Gygès sur la nécessité d'une fiscalité adaptée (taxe sucre) pour la santé publique",
+      "Milakulo Tukumuli en arbitre sur les choix budgétaires de l'intergroupe",
+      "Rôle de l'État via Claire Durrieu dans l'expertise de reconstruction",
+      "Promotion de l'identité Kanak par le biais de l'Académie des Langues (ALK)"
+    ],
+    "faits_marquants": [
+      "Visite de la mission interministérielle pour chiffrer les dégâts du 'Banc de Magenta'",
+      "Débat au Congrès sur l'application de la taxe sur les produits sucrés",
+      "Focus sur le rôle pivot de l'Académie des Langues Kanak pour la cohésion sociale",
+      "Inquiétudes des entreprises sur les délais de versement des aides à la reconstruction"
+    ]
+  },
+  {
+    "id": 20260219002,
+    "titre": "Journal TV - NC la 1ère - 19/02/2026",
+    "media": "NC la 1ère",
+    "introduction": "Synthèse de l'actualité politique locale avec l'officialisation de candidatures clés pour 2026.",
+    "verdict_ia": "Domination de l'agenda politique par les préparatifs des municipales de Nouméa.",
+    "analyse_pluralisme": [
+      "Annonce officielle de Sonia Lagarde pour un nouveau mandat à Nouméa",
+      "Réactions du camp indépendantiste via Emmanuel Tjibaou sur l'occupation de l'espace médiatique",
+      "Expression des divergences au sein de la coalition loyaliste sur le leadership à Nouméa",
+      "Débats sur la répartition des aides de l'État pour la filière nickel"
+    ],
+    "faits_marquants": [
+      "Sonia Lagarde brigue un 3ème mandat : 'Finir le travail de reconstruction'",
+      "Nickel : les sous-traitants en attente de garanties concrètes sur le pacte gouvernemental",
+      "Patrimoine : dossier sur la préservation des bâtiments historiques de la colonisation",
+      "International : focus sur les échanges commerciaux avec le Forum des îles du Pacifique"
+    ]
+  },
+  {
+    "id": 20260219003,
+    "titre": "Journal Radio - Océane FM - 19/02/2026",
+    "media": "Océane FM",
+    "introduction": "Analyse du lien entre patronat et avenir politique de la Nouvelle-Calédonie.",
+    "verdict_ia": "L'économie calédonienne cherche un nouveau souffle à travers le renouvellement des instances patronales.",
+    "analyse_pluralisme": [
+      "Vision de Bertrand Courte (Medef) sur le besoin de stabilité institutionnelle pour investir",
+      "Confrontation entre les attentes des PME et les grandes orientations provinciales",
+      "Pluralisme des opinions sur la réforme fiscale en cours",
+      "Focus sur l'insertion des jeunes diplômés dans le privé"
+    ],
+    "faits_marquants": [
+      "Prise de fonction de Bertrand Courte à la tête du Medef Nouvelle-Calédonie",
+      "Alerte sur la 'fuite des cerveaux' et des compétences vers la métropole",
+      "Prévisions de croissance revues à la baisse pour le premier semestre 2026",
+      "Développement de circuits courts pour lutter contre l'inflation alimentaire"
+    ]
+  },
+  {
+    "id": 20260219004,
+    "titre": "Journal Radio - NRJ - 19/02/2026",
+    "media": "NRJ",
+    "introduction": "Point sur l'actualité institutionnelle vue depuis Paris et son impact local.",
+    "verdict_ia": "Journalisme d'information nationale relayant les tensions au sommet de l'État sur le dossier calédonien.",
+    "analyse_pluralisme": [
+      "Sébastien Lecornu défendant le calendrier du dégel du corps électoral",
+      "Naima Mouchou sur la continuité de l'aide humanitaire et sécuritaire",
+      "Contestations parlementaires à l'Assemblée Nationale (LFI, PS)",
+      "Mise en perspective des enjeux de défense dans le Pacifique (AUKUS)"
+    ],
+    "faits_marquants": [
+      "Passage de la loi constitutionnelle en commission des lois à Paris",
+      "Maintien des effectifs de gendarmerie mobile pour l'année 2026",
+      "Focus sécuritaire : démantèlement d'un réseau de trafic de stupéfiants en métropole",
+      "Diplomatie : influence croissante de la Chine dans la région mélanésienne"
+    ]
+  },
+  {
+    "id": 20260219005,
+    "titre": "Journal Radio - Radio Djiido - 19/02/2026",
+    "media": "Radio Djiido",
+    "introduction": "La voix de la mobilisation et de la contestation indépendantiste.",
+    "verdict_ia": "Ton ferme appelant à la résistance contre ce qui est perçu comme une marche arrière institutionnelle.",
+    "analyse_pluralisme": [
+      "Appel de Christian Tein à maintenir la pression sur le terrain",
+      "Robert Woi dénonçant le passage en force de l'État au Sénat",
+      "Soutien aux mouvements sociaux contre la vie chère",
+      "Analyse de la 'trahison' perçue de certains partenaires politiques locaux"
+    ],
+    "faits_marquants": [
+      "Déclaration solennelle du CCAT sur l'avenir du dialogue politique",
+      "Critique des conditions de la rentrée scolaire dans les zones rurales",
+      "Revendication pour une souveraineté alimentaire et industrielle renforcée",
+      "Coordination des comités locaux pour les prochaines échéances"
+    ]
+  },
+  {
+    "id": 20260219006,
+    "titre": "Journal Radio - RRB - 19/02/2026",
+    "media": "RRB",
+    "introduction": "Soutien au développement économique et à l'ordre institutionnel.",
+    "verdict_ia": "Focus sur la résilience du monde économique et le soutien à la majorité loyaliste.",
+    "analyse_pluralisme": [
+      "Appui du Medef aux réformes de simplification administrative",
+      "Défense du budget de la Province Sud pour l'aide aux entreprises",
+      "Inquiétude face aux menaces de blocages du camp indépendantiste",
+      "Mise en valeur du partenariat État-Province pour la reconstruction"
+    ],
+    "faits_marquants": [
+      "Présentation du plan de relance économique par le Medef local",
+      "Succès des dispositifs de chômage partiel pour éviter les licenciements massifs",
+      "Focus sur la sécurité des zones commerciales de Nouméa et Grand Nouméa",
+      "Candidature Lagarde : accueil favorable des milieux économiques"
+    ]
+  },
+  {
+    "id": 20260219007,
+    "titre": "Journal Radio - Calédonie La 1ère (Radio) - 19/02/2026",
+    "media": "Calédonie La 1ère (Radio)",
+    "introduction": "Bilan social et éducatif de la semaine.",
+    "verdict_ia": "Couverture des réalités quotidiennes des travailleurs et des familles calédoniennes.",
+    "analyse_pluralisme": [
+      "Fabienne Kadoca (UTC-CGC) sur les conditions de travail des enseignants",
+      "Témoignages de parents sur le coût des fournitures scolaires",
+      "Point technique sur les capacités de transport d'Air Calédonie",
+      "Débat sur l'accès aux soins en zone Brousse"
+    ],
+    "faits_marquants": [
+      "Alerte syndicale sur le burn-out dans les services de reconstruction",
+      "Maintien des tarifs sociaux pour les vols domestiques",
+      "Inauguration d'une nouvelle structure de santé de proximité",
+      "Bilan météo : retour au calme après les inondations du début de semaine"
+    ]
+  },
+  {
     "id": 20260218001,
     "titre": "Journal Radio - NRJ - 18/02/2026",
     "media": "NRJ",
