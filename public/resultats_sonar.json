@@ -1,5 +1,115 @@
 [
   {
+    "id": 20260219001,
+    "type": "video",
+    "media": "Caledonia",
+    "filename": "CALEDONIA_19022026.mp4",
+    "timestamp": "2026-02-19",
+    "duration": 600,
+    "topics": ["Économie", "Reconstruction", "Culture", "Fiscalité"],
+    "summary": "Focus sur la mission interministérielle de reconstruction, les débats sur la taxe sucre et la promotion des langues Kanak.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Christopher Gygès", "camp": "Loyaliste", "speech_time": 180 },
+      { "name": "Milakulo Tukumuli", "camp": "L'Éveil Océanien", "speech_time": 120 },
+      { "name": "Claire Durrieu", "camp": "État Français", "speech_time": 90 }
+    ]
+  },
+  {
+    "id": 20260219002,
+    "type": "video",
+    "media": "NC la 1ère",
+    "filename": "NC1ERE_19022026.mp4",
+    "timestamp": "2026-02-19",
+    "duration": 1200,
+    "topics": ["Politique", "Patrimoine", "Social", "Nickel"],
+    "summary": "Réactions à la candidature de Sonia Lagarde à Nouméa et dossier sur le pacte de nickel après les annonces nationales.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Sonia Lagarde", "camp": "Loyaliste (RE)", "speech_time": 240 },
+      { "name": "Emmanuel Tjibaou", "camp": "Indépendantiste", "speech_time": 150 }
+    ]
+  },
+  {
+    "id": 20260219003,
+    "type": "Audio",
+    "media": "Océane FM",
+    "filename": "OCEANE_19022026.mp3",
+    "timestamp": "2026-02-19",
+    "duration": 600,
+    "topics": ["Municipales", "Économie", "Consommation"],
+    "summary": "Analyse de l'impact des municipales sur les projets économiques locaux et interview du nouveau président du Medef.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Bertrand Courte", "camp": "Société Civile (Medef)", "speech_time": 210 }
+    ]
+  },
+  {
+    "id": 20260219004,
+    "type": "Audio",
+    "media": "NRJ",
+    "filename": "NRJ_19022026.mp3",
+    "timestamp": "2026-02-19",
+    "duration": 720,
+    "topics": ["National", "Outre-mer", "Sécurité"],
+    "summary": "Point sur les débats parlementaires à Paris concernant le dégel du corps électoral et actualité sécuritaire nationale.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Sébastien Lecornu", "camp": "Gouvernement FR", "speech_time": 130 },
+      { "name": "Naima Mouchou", "camp": "Gouvernement FR", "speech_time": 110 }
+    ]
+  },
+  {
+    "id": 20260219005,
+    "type": "Audio",
+    "media": "Radio Djiido",
+    "filename": "DJIIDO_19022026.mp3",
+    "timestamp": "2026-02-19",
+    "duration": 900,
+    "topics": ["Mobilisation", "FLNKS", "Souveraineté"],
+    "summary": "Appel de Christian Tein à la vigilance et focus sur la position du Sénat coutumier sur la réforme constitutionnelle.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Christian Tein", "camp": "Indépendantiste (FLNKS)", "speech_time": 320 },
+      { "name": "Robert Woi", "camp": "Coutumier (Sénat)", "speech_time": 180 }
+    ]
+  },
+  {
+    "id": 20260219006,
+    "type": "Audio",
+    "media": "RRB",
+    "filename": "RRB_19022026.mp3",
+    "timestamp": "2026-02-19",
+    "duration": 780,
+    "topics": ["Entreprises", "Reconstruction", "Politique"],
+    "summary": "Interview du président du Medef sur la relance économique et soutien aux initiatives de reconstruction de la Province Sud.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Bertrand Courte", "camp": "Société Civile", "speech_time": 280 }
+    ]
+  },
+  {
+    "id": 20260219007,
+    "type": "Audio",
+    "media": "NC la 1ère (Radio)",
+    "filename": "NC1ERER_19022026.mp3",
+    "timestamp": "2026-02-19",
+    "duration": 840,
+    "topics": ["Social", "Éducation", "Transports"],
+    "summary": "Suivi de la rentrée scolaire avec l'UTC-CGC et point sur les dessertes aériennes domestiques.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Fabienne Kadoca", "camp": "Syndical", "speech_time": 160 }
+    ]
+  },
+  {
     "id": 20260218001,
     "type": "Audio",
     "media": "NRJ",
