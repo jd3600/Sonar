@@ -1,5 +1,138 @@
 [
   {
+    "id": 20260220001,
+    "titre": "Journal TV - Caledonia - 20/02/2026",
+    "media": "Caledonia",
+    "introduction": "Édition centrée sur le bras de fer entre les usagers des îles et le gouvernement concernant la continuité territoriale.",
+    "verdict_ia": "Forte tension entre impératifs de rigueur budgétaire et besoins de mobilité des populations isolées.",
+    "analyse_pluralisme": [
+      "Voix du Sénat coutumier (Rolland Nyikeine) en soutien aux collectifs d'usagers",
+      "Maintien de la ligne ferme par Alcide Ponga sur la viabilité économique d'Air Calédonie",
+      "Intervention de Gilbert Tyuienon sur le dialogue nécessaire avec les autorités coutumières",
+      "Focus social avec l'action humanitaire de l'Ordre de Malte en milieu carcéral"
+    ],
+    "faits_marquants": [
+      "Collectif d'usagers : demande de maintien des vols à Magenta ou baisse drastique des prix",
+      "Ordre de Malte : mission ophtalmologique et dentaire pour les détenus (accès aux soins)",
+      "Météo : prévisions de fin de saison cyclonique avec un retour à la normale",
+      "Santé : alerte sur le manque de spécialistes en zone Brousse"
+    ]
+  },
+  {
+    "id": 20260220002,
+    "titre": "Journal TV - NC la 1ère - 20/02/2026",
+    "media": "NC la 1ère",
+    "introduction": "Synthèse hebdomadaire des enjeux de reconstruction et de l'actualité politique municipale.",
+    "verdict_ia": "Équilibre entre le suivi des grands chantiers d'État et l'effervescence culturelle locale.",
+    "analyse_pluralisme": [
+      "Marlène D'Arcangelo (Païta) sur les enjeux de sécurité urbaine et de proximité",
+      "Claire Durrieu détaillant les prochaines étapes de la reconstruction interministérielle",
+      "Analyse de l'impact des médailles françaises aux JO sur le moral local",
+      "Expression des acteurs culturels sur le besoin de subventions pérennes"
+    ],
+    "faits_marquants": [
+      "Aircal : le gouvernement confirme le dispositif de navettes Tontouta-Nouméa pour le 2 mars",
+      "Culture : lever de rideau au Théâtre de l'Île avec le spectacle de Stéphane Dora",
+      "JO d'hiver 2026 : médailles d'argent et de bronze pour le ski-alpinisme français",
+      "Société : dossier sur l'usage du numérique à l'école primaire"
+    ]
+  },
+  {
+    "id": 20260220003,
+    "titre": "Journal Radio - Océane FM - 20/02/2026",
+    "media": "Océane FM",
+    "introduction": "Regard sur le monde économique calédonien face aux incertitudes politiques.",
+    "verdict_ia": "Le patronat affiche une volonté de résilience malgré un climat social instable.",
+    "analyse_pluralisme": [
+      "Bertrand Courte (Medef) prônant un pacte de stabilité avec les futurs maires",
+      "Témoignages de petits commerçants sur la baisse du pouvoir d'achat",
+      "Débat sur la fiscalité locale comme frein à l'investissement",
+      "Focus sur l'économie bleue et les opportunités de développement durable"
+    ],
+    "faits_marquants": [
+      "Appel du Medef à simplifier les procédures de reconstruction pour les PME",
+      "Lancement d'une plateforme d'entraide pour les entreprises sinistrées",
+      "Sondage sur les attentes prioritaires des électeurs (vie chère vs sécurité)",
+      "Initiatives locales de relance commerciale dans les quartiers Sud"
+    ]
+  },
+  {
+    "id": 20260220004,
+    "titre": "Journal Radio - NRJ - 20/02/2026",
+    "media": "NRJ",
+    "introduction": "Actualité internationale et nationale marquant la fin de semaine.",
+    "verdict_ia": "Information globalisée connectant la Calédonie aux enjeux diplomatiques européens.",
+    "analyse_pluralisme": [
+      "Mention des tensions entre Rome (Meloni) et Bruxelles sur la gestion migratoire",
+      "Suivi de la réforme constitutionnelle française vue par les juristes nationaux",
+      "Focus sur les performances sportives françaises aux JO",
+      "Débats sur la protection des données personnelles sur les réseaux sociaux"
+    ],
+    "faits_marquants": [
+      "Marche blanche à Lyon : mobilisation citoyenne contre l'insécurité",
+      "Victoire historique de Paul Sexas dans le cyclisme professionnel",
+      "Vigilance métropole : tempête annoncée sur la façade atlantique",
+      "Innovation : présentation de nouveaux dispositifs de télémédecine"
+    ]
+  },
+  {
+    "id": 20260220005,
+    "titre": "Journal Radio - Radio Djiido - 20/02/2026",
+    "media": "Radio Djiido",
+    "introduction": "Tribune sur la défense des intérêts coutumiers et la mobilisation indépendantiste.",
+    "verdict_ia": "Ligne éditoriale très axée sur la contestation du transfert d'Air Calédonie, perçu comme une rupture d'égalité.",
+    "analyse_pluralisme": [
+      "Christian Tein (CCAT) appelant à une journée de mobilisation le 2 mars",
+      "Critique de la 'gestion coloniale' du dossier de la continuité territoriale",
+      "Défense du droit de regard des autorités coutumières sur les infrastructures publiques",
+      "Soutien aux syndicats d'enseignants sur les suppressions de postes"
+    ],
+    "faits_marquants": [
+      "Menace de blocage de l'aéroport de La Tontouta par les collectifs des îles",
+      "Revendications pour le retour de la desserte à Magenta",
+      "Focus sur les difficultés de logement des étudiants originaires des îles",
+      "Appel au boycott des compagnies refusant le dialogue social"
+    ]
+  },
+  {
+    "id": 20260220006,
+    "titre": "Journal Radio - RRB - 20/02/2026",
+    "media": "RRB",
+    "introduction": "Actualité culturelle et soutien au maintien de l'ordre institutionnel.",
+    "verdict_ia": "Promotion active de la reprise de la vie sociale et culturelle comme facteur de stabilité.",
+    "analyse_pluralisme": [
+      "Interview de Dominique Clément Larosière sur la programmation du Théâtre de l'Île",
+      "Appui aux décisions gouvernementales pour sauver les finances d'Aircal",
+      "Inquiétude face aux appels à la mobilisation des indépendantistes",
+      "Mise en avant du rôle de la France dans le rayonnement culturel calédonien"
+    ],
+    "faits_marquants": [
+      "Ouverture de la billetterie pour la saison culturelle 2026",
+      "Succès des mesures de sécurité dans les transports scolaires",
+      "Point sur les investissements de la Province Sud dans le secteur des loisirs",
+      "Bilan positif de la première semaine de rentrée dans les collèges"
+    ]
+  },
+  {
+    "id": 20260220007,
+    "titre": "Journal Radio - Calédonie La 1ère (Radio) - 20/02/2026",
+    "media": "Calédonie La 1ère (Radio)",
+    "introduction": "Magazine de société et actualité médicale de l'archipel.",
+    "verdict_ia": "Approche humaine des réalités sociales à travers des témoignages historiques et actuels.",
+    "analyse_pluralisme": [
+      "Jean-Marc Burret (USOENC) sur l'évolution du métier d'enseignant en 30 ans",
+      "Patrick Biajon (Ordre de Malte) sur la dégradation de la santé dentaire sur le territoire",
+      "Parole donnée aux usagers des transports maritimes face à la météo",
+      "Débat sur la mixité sociale dans les établissements scolaires"
+    ],
+    "faits_marquants": [
+      "Rubrique 'Souvenirs de rentrée' : l'école d'hier face aux défis d'aujourd'hui",
+      "Bilan de la mission médicale au Camp Est : 150 consultations réalisées",
+      "Vigilance jaune météo maintenue pour le Nord et les Îles",
+      "Annonce de la reprise des liaisons maritimes inter-îles"
+    ]
+  },
+  {
     "id": 20260219001,
     "titre": "Journal TV - Caledonia - 19/02/2026",
     "media": "Caledonia",
