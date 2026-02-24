@@ -1,5 +1,114 @@
 [
   {
+    "id": 20260220001,
+    "type": "video",
+    "media": "Caledonia",
+    "filename": "CALEDONIA_20022026.mp4",
+    "timestamp": "2026-02-20",
+    "duration": 600,
+    "topics": ["Transports", "Santé", "Social", "Météo"],
+    "summary": "Contestation du transfert d'Air Calédonie à La Tontouta par les usagers des îles et point sur la mission de l'Ordre de Malte au centre de détention.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Rolland Nyikeine", "camp": "Coutumier (Drehu)", "speech_time": 150 },
+      { "name": "Alcide Ponga", "camp": "Loyaliste (Gouv. NC)", "speech_time": 120 },
+      { "name": "Gilbert Tyuienon", "camp": "Indépendantiste (UC)", "speech_time": 90 }
+    ]
+  },
+  {
+    "id": 20260220002,
+    "type": "video",
+    "media": "NC la 1ère",
+    "filename": "NC1ERE_20022026.mp4",
+    "timestamp": "2026-02-20",
+    "duration": 1200,
+    "topics": ["Air Calédonie", "Reconstruction", "Culture", "JO 2026"],
+    "summary": "Édition traitant du bras de fer sur le dossier Aircal, de la mission de reconstruction interministérielle et de l'ouverture de la saison culturelle.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Marlène D'Arcangelo", "camp": "Loyaliste", "speech_time": 180 },
+      { "name": "Claire Durrieu", "camp": "État Français", "speech_time": 140 }
+    ]
+  },
+  {
+    "id": 20260220003,
+    "type": "Audio",
+    "media": "Océane FM",
+    "filename": "OCEANE_20022026.mp3",
+    "timestamp": "2026-02-20",
+    "duration": 600,
+    "topics": ["Municipales 2026", "Économie", "Patronat"],
+    "summary": "Focus sur les enjeux économiques des municipales et interview sur la résilience des petites entreprises de Brousse.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Bertrand Courte", "camp": "Société Civile (Medef)", "speech_time": 200 }
+    ]
+  },
+  {
+    "id": 20260220004,
+    "type": "Audio",
+    "media": "NRJ",
+    "filename": "NRJ_20022026.mp3",
+    "timestamp": "2026-02-20",
+    "duration": 720,
+    "topics": ["National", "Réforme Constitutionnelle", "International"],
+    "summary": "Débats sur le dégel du corps électoral à Paris et point sur les relations franco-italiennes (Meloni) et les JO d'hiver.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Giorgia Meloni", "camp": "International", "speech_time": 100 }
+    ]
+  },
+  {
+    "id": 20260220005,
+    "type": "Audio",
+    "media": "Radio Djiido",
+    "filename": "DJIIDO_20022026.mp3",
+    "timestamp": "2026-02-20",
+    "duration": 900,
+    "topics": ["Souveraineté", "FLNKS", "Transport", "Foncier"],
+    "summary": "Appel à la mobilisation contre le transfert d'Aircal et positionnement ferme sur le foncier coutumier face aux projets d'aménagement.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Christian Tein", "camp": "Indépendantiste (FLNKS)", "speech_time": 350 }
+    ]
+  },
+  {
+    "id": 20260220006,
+    "type": "Audio",
+    "media": "RRB",
+    "filename": "RRB_20022026.mp3",
+    "timestamp": "2026-02-20",
+    "duration": 780,
+    "topics": ["Ordre Public", "Économie", "Culture"],
+    "summary": "Soutien aux décisions gouvernementales sur Aircal et interview sur la reprise des activités au Théâtre de l'Île.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Dominique Clément Larosière", "camp": "Culturel", "speech_time": 220 }
+    ]
+  },
+  {
+    "id": 20260220007,
+    "type": "Audio",
+    "media": "NC la 1ère (Radio)",
+    "filename": "NC1ERER_20022026.mp3",
+    "timestamp": "2026-02-20",
+    "duration": 840,
+    "topics": ["Santé", "Social", "Météo", "Souvenirs de rentrée"],
+    "summary": "Mission de l'Ordre de Malte pour l'accès aux soins et témoignage sur l'évolution de l'école calédonienne.",
+    "verdict": "Conforme",
+    "analysis_complete": true,
+    "speakers": [
+      { "name": "Jean-Marc Burret", "camp": "Syndical (USOENC)", "speech_time": 250 },
+      { "name": "Patrick Biajon", "camp": "Médical", "speech_time": 180 }
+    ]
+  },
+  {
     "id": 20260219001,
     "type": "video",
     "media": "Caledonia",
