@@ -131,16 +131,29 @@ footer {
     border-top: 1px solid #eee;
 }
 
-/* Centrage modale Bootstrap */
+/* --- Centrage des modales Bootstrap 5 --- */
 .modal {
-    background: rgba(0, 0, 0, 0.5); /* Assure un fond sombre propre */
-}
-.modal.show {
-    display: flex !important;
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    display: none;
     align-items: center !important;
     justify-content: center !important;
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
+
+.modal.show {
+    display: flex !important;
+}
+
 .modal-dialog {
+    position: relative !important;
+    width: auto !important;
+    max-width: 800px !important;
     margin: auto !important;
-    width: 100%;
+    transform: none !important;
 }
