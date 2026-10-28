@@ -130,3 +130,17 @@ footer {
     background: white;
     border-top: 1px solid #eee;
 }
+
+/* Centrage modale Bootstrap */
+.modal {
+    background: rgba(0, 0, 0, 0.5); /* Assure un fond sombre propre */
+}
+.modal.show {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+.modal-dialog {
+    margin: auto !important;
+    width: 100%;
+}
